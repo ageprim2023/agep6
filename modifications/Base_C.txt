@@ -1,0 +1,10 @@
+add:
+Table: Trecus:
+	- obs
+	
+Table: Tnni:
+	- nof
+	- rim
+Etats:
+	-Tdecision
+	

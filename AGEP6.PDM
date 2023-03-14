@@ -1,0 +1,3721 @@
+[Root]
+Most Recent Package=EBETY2
+
+
+[Package|AGEP6OR|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\APP6\AGEP6_Orignal\SetupAGEP6OR
+
+[Package|AGEP6OR|Configure DAO ISAMs]
+Applicable=No
+
+[Package|AGEP6OR|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|AGEP6OR|Files Found]
+
+[Package|AGEP6OR|Files Released]
+
+[Package|AGEP6OR|Missing Dependency Information]
+C:\WINDOWSQ\system32\wmp.dll=
+D:\APP5\AGEP5\ORIGINAL\vcFRMSHAPECTL.ocx=
+D:\APP6\AGEP6_Orignal\barcodex.ocx=
+D:\APP6\AGEP6_Orignal\tabctl32.ocx=
+C:\Program Files\Microsoft Office\OFFICE11\MSACC.OLB=
+C:\WINDOWSQ\system32\MSSTDFMT.DLL=
+D:\AGEP6\ActiveSkin.ocx=
+
+[Package|AGEP6OR|Out-of-Date Dependency Information]
+C:\WINDOWSQ\system32\COMDLG32.OCX=
+C:\WINDOWSQ\system32\MSCOMCTL.OCX=
+
+[Package|AGEP6OR|Files Added]
+
+[Package|AGEP6OR|Files Removed]
+
+[Package|AGEP6OR|Files In Project]
+D:\APP6\AGEP6_Orignal\AGEP6.exe=Yes
+C:\WINDOWSQ\system32\msvbvm60.dll=Yes
+C:\WINDOWSQ\system32\oleaut32.dll=Yes
+C:\WINDOWSQ\system32\olepro32.dll=Yes
+C:\WINDOWSQ\system32\asycfilt.dll=Yes
+C:\WINDOWSQ\system32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWSQ\system32\VB6FR.DLL=Yes
+D:\AGEP6\ActiveSkin.ocx=Yes
+C:\WINDOWSQ\system32\MSSTDFMT.DLL=Yes
+C:\Program Files\Microsoft Office\OFFICE11\MSACC.OLB=Yes
+C:\WINDOWSQ\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWSQ\system32\MSCMCFR.DLL=Yes
+C:\WINDOWSQ\system32\MSCOMCT2.OCX=Yes
+C:\WINDOWSQ\system32\MSCC2FR.DLL=Yes
+D:\APP6\AGEP6_Orignal\tabctl32.ocx=Yes
+C:\WINDOWSQ\system32\MSFLXGRD.OCX=Yes
+C:\WINDOWSQ\system32\FLXGDFR.DLL=Yes
+D:\APP6\AGEP6_Orignal\barcodex.ocx=Yes
+C:\WINDOWSQ\system32\COMDLG32.OCX=Yes
+C:\WINDOWSQ\system32\CMDLGFR.DLL=Yes
+C:\WINDOWSQ\system32\MSCHRT20.OCX=Yes
+C:\WINDOWSQ\system32\MSCH2FR.DLL=Yes
+D:\APP5\AGEP5\ORIGINAL\vcFRMSHAPECTL.ocx=Yes
+C:\WINDOWSQ\system32\wmp.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWSQ\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|AGEP6OR|Configure Registry Files]
+Applicable=No
+
+[Package|AGEP6OR|Configure Remote Servers]
+Applicable=No
+
+[Package|AGEP6OR|Install Locations]
+D:\APP6\AGEP6_Orignal\AGEP6.exe=$(AppPath)
+C:\WINDOWSQ\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWSQ\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWSQ\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWSQ\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWSQ\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWSQ\system32\VB6FR.DLL=$(WinSysPath)
+D:\AGEP6\ActiveSkin.ocx=$(WinSysPath)
+C:\WINDOWSQ\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Office\OFFICE11\MSACC.OLB=$(WinSysPath)
+C:\WINDOWSQ\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWSQ\system32\MSCMCFR.DLL=$(WinSysPath)
+C:\WINDOWSQ\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINDOWSQ\system32\MSCC2FR.DLL=$(WinSysPath)
+D:\APP6\AGEP6_Orignal\tabctl32.ocx=$(WinSysPath)
+C:\WINDOWSQ\system32\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWSQ\system32\FLXGDFR.DLL=$(WinSysPath)
+D:\APP6\AGEP6_Orignal\barcodex.ocx=$(WinSysPath)
+C:\WINDOWSQ\system32\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWSQ\system32\CMDLGFR.DLL=$(WinSysPath)
+C:\WINDOWSQ\system32\MSCHRT20.OCX=$(WinSysPath)
+C:\WINDOWSQ\system32\MSCH2FR.DLL=$(WinSysPath)
+D:\APP5\AGEP5\ORIGINAL\vcFRMSHAPECTL.ocx=$(WinSysPath)
+C:\WINDOWSQ\system32\wmp.dll=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWSQ\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|AGEP6OR|Configure Shared Files]
+Applicable=Yes
+D:\APP6\AGEP6_Orignal\AGEP6.exe=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+
+[Package|AGEP6OR|Distribution]
+Type=single
+Size=
+Title=AGEP6
+
+[Package|AGEP6OR|IconGroups]
+Group0=AGEP6
+PrivateGroup0=Faux
+Parent0=$(Programs)
+
+[Package|AGEP6OR|AGEP6]
+Icon1=AGEP6.exe
+Title1=AGEP6
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|AGEP6OR|Package]
+PackageFolder=D:\APP6\AGEP6_Orignal\SetupAGEP6OR
+ProjectFolder=D:\APP6\AGEP6_Orignal
+ServerSideCab=
+File1=D:\APP6\AGEP6_Orignal\SetupAGEP6OR\setup.exe
+File2=D:\APP6\AGEP6_Orignal\SetupAGEP6OR\Setup.Lst
+File3=D:\APP6\AGEP6_Orignal\SetupAGEP6OR\AGEP6.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|agepnext|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\APP6\AGEP6\APPLICATIONS\AGEP6_APPLICATION\agepnext
+
+[Package|agepnext|Configure DAO ISAMs]
+Applicable=No
+
+[Package|agepnext|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|agepnext|Files Found]
+
+[Package|agepnext|Files Released]
+
+[Package|agepnext|Missing Dependency Information]
+C:\WINDOWS\system32\wmp.dll=
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_APPLICATION\vcFRMSHAPECTL.ocx=
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_APPLICATION\barcodex.ocx=
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_APPLICATION\tabctl32.ocx=
+C:\Program Files\Microsoft Office\Office12\MSACC.OLB=
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_APPLICATION\actskin4.ocx=
+
+[Package|agepnext|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\COMDLG32.OCX=
+C:\WINDOWS\system32\msflxgrd.ocx=
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+C:\WINDOWS\system32\MSSTDFMT.DLL=
+
+[Package|agepnext|Files Added]
+
+[Package|agepnext|Files Removed]
+
+[Package|agepnext|Files In Project]
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_APPLICATION\AGEP6.exe=Yes
+C:\WINDOWS\system32\MSVBVM60.DLL=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\VB6FR.DLL=Yes
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_APPLICATION\actskin4.ocx=Yes
+C:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+C:\WINDOWS\system32\STDFTFR.DLL=Yes
+C:\Program Files\Microsoft Office\Office12\MSACC.OLB=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\MSCMCFR.DLL=Yes
+C:\WINDOWS\system32\MSCOMCT2.OCX=Yes
+C:\WINDOWS\system32\MSCC2FR.DLL=Yes
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_APPLICATION\tabctl32.ocx=Yes
+C:\WINDOWS\system32\msflxgrd.ocx=Yes
+C:\WINDOWS\system32\FLXGDFR.DLL=Yes
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_APPLICATION\barcodex.ocx=Yes
+C:\WINDOWS\system32\COMDLG32.OCX=Yes
+C:\WINDOWS\system32\CMDLGFR.DLL=Yes
+C:\WINDOWS\system32\MSCHRT20.OCX=Yes
+C:\WINDOWS\system32\MSCH2FR.DLL=Yes
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_APPLICATION\vcFRMSHAPECTL.ocx=Yes
+C:\WINDOWS\system32\wmp.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|agepnext|Configure Registry Files]
+Applicable=No
+
+[Package|agepnext|Configure Remote Servers]
+Applicable=No
+
+[Package|agepnext|Install Locations]
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_APPLICATION\AGEP6.exe=$(AppPath)
+C:\WINDOWS\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB6FR.DLL=$(WinSysPath)
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_APPLICATION\actskin4.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\STDFTFR.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Office\Office12\MSACC.OLB=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCMCFR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCC2FR.DLL=$(WinSysPath)
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_APPLICATION\tabctl32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\msflxgrd.ocx=$(WinSysPath)
+C:\WINDOWS\system32\FLXGDFR.DLL=$(WinSysPath)
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_APPLICATION\barcodex.ocx=$(WinSysPath)
+C:\WINDOWS\system32\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\CMDLGFR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCHRT20.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCH2FR.DLL=$(WinSysPath)
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_APPLICATION\vcFRMSHAPECTL.ocx=$(WinSysPath)
+C:\WINDOWS\system32\wmp.dll=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|agepnext|Configure Shared Files]
+Applicable=Yes
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_APPLICATION\AGEP6.exe=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+
+[Package|agepnext|Distribution]
+Type=single
+Size=
+Title=AGEP6
+
+[Package|agepnext|IconGroups]
+Group0=AGEP6
+PrivateGroup0=Vrai
+Parent0=$(Programs)
+
+[Package|agepnext|AGEP6]
+Icon1=AGEP6.exe
+Title1=AGEP6
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|agepnext|Package]
+PackageFolder=D:\APP6\AGEP6\APPLICATIONS\AGEP6_APPLICATION\agepnext
+ProjectFolder=D:\APP6\AGEP6\APPLICATIONS\AGEP6_APPLICATION
+ServerSideCab=
+File1=D:\APP6\AGEP6\APPLICATIONS\AGEP6_APPLICATION\agepnext\setup.exe
+File2=D:\APP6\AGEP6\APPLICATIONS\AGEP6_APPLICATION\agepnext\Setup.Lst
+File3=D:\APP6\AGEP6\APPLICATIONS\AGEP6_APPLICATION\agepnext\AGEP6.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|excel|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\APP6\AGEP6\APPLICATIONS\AGEP6_APPLICATION\excel
+
+[Package|excel|Configure DAO ISAMs]
+Applicable=No
+
+[Package|excel|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|excel|Files Found]
+
+[Package|excel|Files Released]
+
+[Package|excel|Missing Dependency Information]
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_APPLICATION\vcFRMSHAPECTL.ocx=
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_APPLICATION\barcodex.ocx=
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_APPLICATION\tabctl32.ocx=
+C:\Program Files\Microsoft Office\Office12\EXCEL.EXE=
+C:\WINDOWS\system32\wmp.dll=
+C:\Program Files\Microsoft Office\Office12\MSACC.OLB=
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_APPLICATION\actskin4.ocx=
+
+[Package|excel|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\COMDLG32.OCX=
+C:\WINDOWS\system32\msflxgrd.ocx=
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+C:\WINDOWS\system32\MSSTDFMT.DLL=
+
+[Package|excel|Files Added]
+
+[Package|excel|Files Removed]
+
+[Package|excel|Files In Project]
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_APPLICATION\AGEP6.exe=Yes
+C:\WINDOWS\system32\MSVBVM60.DLL=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\VB6FR.DLL=Yes
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_APPLICATION\actskin4.ocx=Yes
+C:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+C:\WINDOWS\system32\STDFTFR.DLL=Yes
+C:\Program Files\Microsoft Office\Office12\MSACC.OLB=Yes
+C:\WINDOWS\system32\wmp.dll=Yes
+C:\Program Files\Microsoft Office\Office12\EXCEL.EXE=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\MSCMCFR.DLL=Yes
+C:\WINDOWS\system32\MSCOMCT2.OCX=Yes
+C:\WINDOWS\system32\MSCC2FR.DLL=Yes
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_APPLICATION\tabctl32.ocx=Yes
+C:\WINDOWS\system32\msflxgrd.ocx=Yes
+C:\WINDOWS\system32\FLXGDFR.DLL=Yes
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_APPLICATION\barcodex.ocx=Yes
+C:\WINDOWS\system32\COMDLG32.OCX=Yes
+C:\WINDOWS\system32\CMDLGFR.DLL=Yes
+C:\WINDOWS\system32\MSCHRT20.OCX=Yes
+C:\WINDOWS\system32\MSCH2FR.DLL=Yes
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_APPLICATION\vcFRMSHAPECTL.ocx=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|excel|Configure Registry Files]
+Applicable=No
+
+[Package|excel|Configure Remote Servers]
+Applicable=No
+
+[Package|excel|Install Locations]
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_APPLICATION\AGEP6.exe=$(AppPath)
+C:\WINDOWS\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB6FR.DLL=$(WinSysPath)
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_APPLICATION\actskin4.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\STDFTFR.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Office\Office12\MSACC.OLB=$(WinSysPath)
+C:\WINDOWS\system32\wmp.dll=$(WinSysPath)
+C:\Program Files\Microsoft Office\Office12\EXCEL.EXE=$(AppPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCMCFR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCC2FR.DLL=$(WinSysPath)
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_APPLICATION\tabctl32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\msflxgrd.ocx=$(WinSysPath)
+C:\WINDOWS\system32\FLXGDFR.DLL=$(WinSysPath)
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_APPLICATION\barcodex.ocx=$(WinSysPath)
+C:\WINDOWS\system32\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\CMDLGFR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCHRT20.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCH2FR.DLL=$(WinSysPath)
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_APPLICATION\vcFRMSHAPECTL.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|excel|Configure Shared Files]
+Applicable=Yes
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_APPLICATION\AGEP6.exe=Yes
+C:\Program Files\Microsoft Office\Office12\EXCEL.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+
+[Package|excel|Distribution]
+Type=single
+Size=
+Title=AGEP6
+
+[Package|excel|IconGroups]
+Group0=AGEP6
+PrivateGroup0=Vrai
+Parent0=$(Programs)
+
+[Package|excel|AGEP6]
+Icon1=AGEP6.exe
+Title1=AGEP6
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|excel|Package]
+PackageFolder=D:\APP6\AGEP6\APPLICATIONS\AGEP6_APPLICATION\excel
+ProjectFolder=D:\APP6\AGEP6\APPLICATIONS\AGEP6_APPLICATION
+ServerSideCab=
+File1=D:\APP6\AGEP6\APPLICATIONS\AGEP6_APPLICATION\excel\setup.exe
+File2=D:\APP6\AGEP6\APPLICATIONS\AGEP6_APPLICATION\excel\Setup.Lst
+File3=D:\APP6\AGEP6\APPLICATIONS\AGEP6_APPLICATION\excel\AGEP6.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|AGEP6|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\APP6\AGEP6\APPLICATIONS\AGEP6_APPLICATION\AGEP_EL_MAAREF
+
+[Package|AGEP6|Configure DAO ISAMs]
+Applicable=No
+
+[Package|AGEP6|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|AGEP6|Files Found]
+
+[Package|AGEP6|Files Released]
+
+[Package|AGEP6|Missing Dependency Information]
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_APPLICATION\vcFRMSHAPECTL.ocx=
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_APPLICATION\barcodex.ocx=
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_APPLICATION\tabctl32.ocx=
+C:\Program Files\Microsoft Office\Office12\EXCEL.EXE=
+C:\WINDOWS\system32\wmp.dll=
+C:\Program Files\Microsoft Office\Office12\MSACC.OLB=
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_APPLICATION\actskin4.ocx=
+
+[Package|AGEP6|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\COMDLG32.OCX=
+C:\WINDOWS\system32\msflxgrd.ocx=
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+C:\WINDOWS\system32\MSSTDFMT.DLL=
+
+[Package|AGEP6|Files Added]
+
+[Package|AGEP6|Files Removed]
+
+[Package|AGEP6|Files In Project]
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_APPLICATION\AGEP6.exe=Yes
+C:\WINDOWS\system32\MSVBVM60.DLL=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\VB6FR.DLL=Yes
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_APPLICATION\actskin4.ocx=Yes
+C:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+C:\WINDOWS\system32\STDFTFR.DLL=Yes
+C:\Program Files\Microsoft Office\Office12\MSACC.OLB=Yes
+C:\WINDOWS\system32\wmp.dll=Yes
+C:\Program Files\Microsoft Office\Office12\EXCEL.EXE=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\MSCMCFR.DLL=Yes
+C:\WINDOWS\system32\MSCOMCT2.OCX=Yes
+C:\WINDOWS\system32\MSCC2FR.DLL=Yes
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_APPLICATION\tabctl32.ocx=Yes
+C:\WINDOWS\system32\msflxgrd.ocx=Yes
+C:\WINDOWS\system32\FLXGDFR.DLL=Yes
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_APPLICATION\barcodex.ocx=Yes
+C:\WINDOWS\system32\COMDLG32.OCX=Yes
+C:\WINDOWS\system32\CMDLGFR.DLL=Yes
+C:\WINDOWS\system32\MSCHRT20.OCX=Yes
+C:\WINDOWS\system32\MSCH2FR.DLL=Yes
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_APPLICATION\vcFRMSHAPECTL.ocx=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|AGEP6|Configure Registry Files]
+Applicable=No
+
+[Package|AGEP6|Configure Remote Servers]
+Applicable=No
+
+[Package|AGEP6|Install Locations]
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_APPLICATION\AGEP6.exe=$(AppPath)
+C:\WINDOWS\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB6FR.DLL=$(WinSysPath)
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_APPLICATION\actskin4.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\STDFTFR.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Office\Office12\MSACC.OLB=$(WinSysPath)
+C:\WINDOWS\system32\wmp.dll=$(WinSysPath)
+C:\Program Files\Microsoft Office\Office12\EXCEL.EXE=$(AppPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCMCFR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCC2FR.DLL=$(WinSysPath)
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_APPLICATION\tabctl32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\msflxgrd.ocx=$(WinSysPath)
+C:\WINDOWS\system32\FLXGDFR.DLL=$(WinSysPath)
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_APPLICATION\barcodex.ocx=$(WinSysPath)
+C:\WINDOWS\system32\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\CMDLGFR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCHRT20.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCH2FR.DLL=$(WinSysPath)
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_APPLICATION\vcFRMSHAPECTL.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|AGEP6|Configure Shared Files]
+Applicable=Yes
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_APPLICATION\AGEP6.exe=Yes
+C:\Program Files\Microsoft Office\Office12\EXCEL.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+
+[Package|AGEP6|Distribution]
+Type=single
+Size=
+Title=AGEP6
+
+[Package|AGEP6|IconGroups]
+Group0=AGEP6
+PrivateGroup0=Vrai
+Parent0=$(Programs)
+
+[Package|AGEP6|AGEP6]
+Icon1=AGEP6.exe
+Title1=AGEP6
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|AGEP6|Package]
+PackageFolder=D:\APP6\AGEP6\APPLICATIONS\AGEP6_APPLICATION\AGEP_EL_MAAREF
+ProjectFolder=D:\APP6\AGEP6\APPLICATIONS\AGEP6_APPLICATION
+ServerSideCab=
+File1=D:\APP6\AGEP6\APPLICATIONS\AGEP6_APPLICATION\AGEP_EL_MAAREF\setup.exe
+File2=D:\APP6\AGEP6\APPLICATIONS\AGEP6_APPLICATION\AGEP_EL_MAAREF\Setup.Lst
+File3=D:\APP6\AGEP6\APPLICATIONS\AGEP6_APPLICATION\AGEP_EL_MAAREF\AGEP6.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|TEST|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\APP6\AGEP6\APPLICATIONS\AGEP6_APPLICATION\TEST
+
+[Package|TEST|Configure DAO ISAMs]
+Applicable=No
+
+[Package|TEST|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|TEST|Files Found]
+
+[Package|TEST|Files Released]
+
+[Package|TEST|Missing Dependency Information]
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_APPLICATION\vcFRMSHAPECTL.ocx=
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_APPLICATION\barcodex.ocx=
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_APPLICATION\tabctl32.ocx=
+C:\Program Files\Microsoft Office\Office12\EXCEL.EXE=
+C:\WINDOWS\system32\wmp.dll=
+C:\Program Files\Microsoft Office\Office12\MSACC.OLB=
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_APPLICATION\actskin4.ocx=
+
+[Package|TEST|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\COMDLG32.OCX=
+C:\WINDOWS\system32\msflxgrd.ocx=
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+C:\WINDOWS\system32\MSSTDFMT.DLL=
+
+[Package|TEST|Files Added]
+
+[Package|TEST|Files Removed]
+
+[Package|TEST|Files In Project]
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_APPLICATION\AGEP6.exe=Yes
+C:\WINDOWS\system32\MSVBVM60.DLL=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\VB6FR.DLL=Yes
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_APPLICATION\actskin4.ocx=Yes
+C:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+C:\WINDOWS\system32\STDFTFR.DLL=Yes
+C:\Program Files\Microsoft Office\Office12\MSACC.OLB=Yes
+C:\WINDOWS\system32\wmp.dll=Yes
+C:\Program Files\Microsoft Office\Office12\EXCEL.EXE=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\MSCMCFR.DLL=Yes
+C:\WINDOWS\system32\MSCOMCT2.OCX=Yes
+C:\WINDOWS\system32\MSCC2FR.DLL=Yes
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_APPLICATION\tabctl32.ocx=Yes
+C:\WINDOWS\system32\msflxgrd.ocx=Yes
+C:\WINDOWS\system32\FLXGDFR.DLL=Yes
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_APPLICATION\barcodex.ocx=Yes
+C:\WINDOWS\system32\COMDLG32.OCX=Yes
+C:\WINDOWS\system32\CMDLGFR.DLL=Yes
+C:\WINDOWS\system32\MSCHRT20.OCX=Yes
+C:\WINDOWS\system32\MSCH2FR.DLL=Yes
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_APPLICATION\vcFRMSHAPECTL.ocx=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|TEST|Configure Registry Files]
+Applicable=No
+
+[Package|TEST|Configure Remote Servers]
+Applicable=No
+
+[Package|TEST|Install Locations]
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_APPLICATION\AGEP6.exe=$(AppPath)
+C:\WINDOWS\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB6FR.DLL=$(WinSysPath)
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_APPLICATION\actskin4.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\STDFTFR.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Office\Office12\MSACC.OLB=$(WinSysPath)
+C:\WINDOWS\system32\wmp.dll=$(WinSysPath)
+C:\Program Files\Microsoft Office\Office12\EXCEL.EXE=$(AppPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCMCFR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCC2FR.DLL=$(WinSysPath)
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_APPLICATION\tabctl32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\msflxgrd.ocx=$(WinSysPath)
+C:\WINDOWS\system32\FLXGDFR.DLL=$(WinSysPath)
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_APPLICATION\barcodex.ocx=$(WinSysPath)
+C:\WINDOWS\system32\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\CMDLGFR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCHRT20.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCH2FR.DLL=$(WinSysPath)
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_APPLICATION\vcFRMSHAPECTL.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|TEST|Configure Shared Files]
+Applicable=Yes
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_APPLICATION\AGEP6.exe=Yes
+C:\Program Files\Microsoft Office\Office12\EXCEL.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+
+[Package|TEST|Distribution]
+Type=single
+Size=
+Title=AGEP6
+
+[Package|TEST|IconGroups]
+Group0=AGEP6
+PrivateGroup0=Vrai
+Parent0=$(Programs)
+
+[Package|TEST|AGEP6]
+Icon1=AGEP6.exe
+Title1=AGEP6
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|TEST|Package]
+PackageFolder=D:\APP6\AGEP6\APPLICATIONS\AGEP6_APPLICATION\TEST
+ProjectFolder=D:\APP6\AGEP6\APPLICATIONS\AGEP6_APPLICATION
+ServerSideCab=
+File1=D:\APP6\AGEP6\APPLICATIONS\AGEP6_APPLICATION\TEST\setup.exe
+File2=D:\APP6\AGEP6\APPLICATIONS\AGEP6_APPLICATION\TEST\Setup.Lst
+File3=D:\APP6\AGEP6\APPLICATIONS\AGEP6_APPLICATION\TEST\AGEP6.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|El_Houda|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\El_Houda
+
+[Package|El_Houda|Configure DAO ISAMs]
+Applicable=No
+
+[Package|El_Houda|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|El_Houda|Files Found]
+
+[Package|El_Houda|Files Released]
+
+[Package|El_Houda|Missing Dependency Information]
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\vcFRMSHAPECTL.ocx=
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\barcodex.ocx=
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\tabctl32.ocx=
+C:\Program Files\Microsoft Office\Office12\EXCEL.EXE=
+C:\WINDOWS\system32\wmp.dll=
+C:\Program Files\Microsoft Office\Office12\MSACC.OLB=
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\actskin4.ocx=
+
+[Package|El_Houda|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\COMDLG32.OCX=
+C:\WINDOWS\system32\msflxgrd.ocx=
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+C:\WINDOWS\system32\MSSTDFMT.DLL=
+
+[Package|El_Houda|Files Added]
+
+[Package|El_Houda|Files Removed]
+
+[Package|El_Houda|Files In Project]
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\AGEP6.exe=Yes
+C:\WINDOWS\system32\MSVBVM60.DLL=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\VB6FR.DLL=Yes
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\actskin4.ocx=Yes
+C:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+C:\WINDOWS\system32\STDFTFR.DLL=Yes
+C:\Program Files\Microsoft Office\Office12\MSACC.OLB=Yes
+C:\WINDOWS\system32\wmp.dll=Yes
+C:\Program Files\Microsoft Office\Office12\EXCEL.EXE=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\MSCMCFR.DLL=Yes
+C:\WINDOWS\system32\MSCOMCT2.OCX=Yes
+C:\WINDOWS\system32\MSCC2FR.DLL=Yes
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\tabctl32.ocx=Yes
+C:\WINDOWS\system32\msflxgrd.ocx=Yes
+C:\WINDOWS\system32\FLXGDFR.DLL=Yes
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\barcodex.ocx=Yes
+C:\WINDOWS\system32\COMDLG32.OCX=Yes
+C:\WINDOWS\system32\CMDLGFR.DLL=Yes
+C:\WINDOWS\system32\MSCHRT20.OCX=Yes
+C:\WINDOWS\system32\MSCH2FR.DLL=Yes
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\vcFRMSHAPECTL.ocx=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|El_Houda|Configure Registry Files]
+Applicable=No
+
+[Package|El_Houda|Configure Remote Servers]
+Applicable=No
+
+[Package|El_Houda|Install Locations]
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\AGEP6.exe=$(AppPath)
+C:\WINDOWS\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB6FR.DLL=$(WinSysPath)
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\actskin4.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\STDFTFR.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Office\Office12\MSACC.OLB=$(WinSysPath)
+C:\WINDOWS\system32\wmp.dll=$(WinSysPath)
+C:\Program Files\Microsoft Office\Office12\EXCEL.EXE=$(AppPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCMCFR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCC2FR.DLL=$(WinSysPath)
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\tabctl32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\msflxgrd.ocx=$(WinSysPath)
+C:\WINDOWS\system32\FLXGDFR.DLL=$(WinSysPath)
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\barcodex.ocx=$(WinSysPath)
+C:\WINDOWS\system32\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\CMDLGFR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCHRT20.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCH2FR.DLL=$(WinSysPath)
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\vcFRMSHAPECTL.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|El_Houda|Configure Shared Files]
+Applicable=Yes
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\AGEP6.exe=Yes
+C:\Program Files\Microsoft Office\Office12\EXCEL.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+
+[Package|El_Houda|Distribution]
+Type=single
+Size=
+Title=AGEP6
+
+[Package|El_Houda|IconGroups]
+Group0=AGEP6
+PrivateGroup0=Vrai
+Parent0=$(Programs)
+
+[Package|El_Houda|AGEP6]
+Icon1=AGEP6.exe
+Title1=AGEP6
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|El_Houda|Package]
+PackageFolder=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\El_Houda
+ProjectFolder=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS
+ServerSideCab=
+File1=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\El_Houda\setup.exe
+File2=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\El_Houda\Setup.Lst
+File3=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\El_Houda\AGEP6.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|AGEP|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\ENNASR
+
+[Package|AGEP|Configure DAO ISAMs]
+Applicable=No
+
+[Package|AGEP|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|AGEP|Files Found]
+
+[Package|AGEP|Files Released]
+
+[Package|AGEP|Missing Dependency Information]
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\vcFRMSHAPECTL.ocx=
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\barcodex.ocx=
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\tabctl32.ocx=
+C:\Program Files\Microsoft Office\Office12\EXCEL.EXE=
+C:\WINDOWS\system32\wmp.dll=
+C:\Program Files\Microsoft Office\Office12\MSACC.OLB=
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\actskin4.ocx=
+
+[Package|AGEP|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\COMDLG32.OCX=
+C:\WINDOWS\system32\msflxgrd.ocx=
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+C:\WINDOWS\system32\MSSTDFMT.DLL=
+
+[Package|AGEP|Files Added]
+
+[Package|AGEP|Files Removed]
+
+[Package|AGEP|Files In Project]
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\AGEP6.exe=Yes
+C:\WINDOWS\system32\MSVBVM60.DLL=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\VB6FR.DLL=Yes
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\actskin4.ocx=Yes
+C:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+C:\WINDOWS\system32\STDFTFR.DLL=Yes
+C:\Program Files\Microsoft Office\Office12\MSACC.OLB=Yes
+C:\WINDOWS\system32\wmp.dll=Yes
+C:\Program Files\Microsoft Office\Office12\EXCEL.EXE=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\MSCMCFR.DLL=Yes
+C:\WINDOWS\system32\MSCOMCT2.OCX=Yes
+C:\WINDOWS\system32\MSCC2FR.DLL=Yes
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\tabctl32.ocx=Yes
+C:\WINDOWS\system32\msflxgrd.ocx=Yes
+C:\WINDOWS\system32\FLXGDFR.DLL=Yes
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\barcodex.ocx=Yes
+C:\WINDOWS\system32\COMDLG32.OCX=Yes
+C:\WINDOWS\system32\CMDLGFR.DLL=Yes
+C:\WINDOWS\system32\MSCHRT20.OCX=Yes
+C:\WINDOWS\system32\MSCH2FR.DLL=Yes
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\vcFRMSHAPECTL.ocx=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|AGEP|Configure Registry Files]
+Applicable=No
+
+[Package|AGEP|Configure Remote Servers]
+Applicable=No
+
+[Package|AGEP|Install Locations]
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\AGEP6.exe=$(AppPath)
+C:\WINDOWS\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB6FR.DLL=$(WinSysPath)
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\actskin4.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\STDFTFR.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Office\Office12\MSACC.OLB=$(WinSysPath)
+C:\WINDOWS\system32\wmp.dll=$(WinSysPath)
+C:\Program Files\Microsoft Office\Office12\EXCEL.EXE=$(AppPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCMCFR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCC2FR.DLL=$(WinSysPath)
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\tabctl32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\msflxgrd.ocx=$(WinSysPath)
+C:\WINDOWS\system32\FLXGDFR.DLL=$(WinSysPath)
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\barcodex.ocx=$(WinSysPath)
+C:\WINDOWS\system32\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\CMDLGFR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCHRT20.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCH2FR.DLL=$(WinSysPath)
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\vcFRMSHAPECTL.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|AGEP|Configure Shared Files]
+Applicable=Yes
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\AGEP6.exe=Yes
+C:\Program Files\Microsoft Office\Office12\EXCEL.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+
+[Package|AGEP|Distribution]
+Type=single
+Size=
+Title=AGEP6
+
+[Package|AGEP|IconGroups]
+Group0=AGEP6
+PrivateGroup0=Vrai
+Parent0=$(Programs)
+
+[Package|AGEP|AGEP6]
+Icon1=AGEP6.exe
+Title1=AGEP6
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|AGEP|Package]
+PackageFolder=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\ENNASR
+ProjectFolder=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS
+ServerSideCab=
+File1=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\ENNASR\setup.exe
+File2=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\ENNASR\Setup.Lst
+File3=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\ENNASR\AGEP6.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|ELGHAD|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\EL_GHAD
+
+[Package|ELGHAD|Configure DAO ISAMs]
+Applicable=No
+
+[Package|ELGHAD|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|ELGHAD|Files Found]
+
+[Package|ELGHAD|Files Released]
+
+[Package|ELGHAD|Missing Dependency Information]
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\vcFRMSHAPECTL.ocx=
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\barcodex.ocx=
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\tabctl32.ocx=
+C:\Program Files\Microsoft Office\OFFICE11\EXCEL.EXE=
+C:\WINDOWS\system32\wmp.dll=
+C:\Program Files\Microsoft Office\OFFICE11\MSACC.OLB=
+C:\WINDOWS\system32\ActiveSkin.ocx=
+
+[Package|ELGHAD|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\COMDLG32.OCX=
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+C:\WINDOWS\system32\MSSTDFMT.DLL=
+
+[Package|ELGHAD|Files Added]
+
+[Package|ELGHAD|Files Removed]
+
+[Package|ELGHAD|Files In Project]
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\AGEP6.exe=Yes
+C:\WINDOWS\system32\MSVBVM60.DLL=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\VB6FR.DLL=Yes
+C:\WINDOWS\system32\ActiveSkin.ocx=Yes
+C:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+C:\WINDOWS\system32\STDFTFR.DLL=Yes
+C:\Program Files\Microsoft Office\OFFICE11\MSACC.OLB=Yes
+C:\WINDOWS\system32\wmp.dll=Yes
+C:\Program Files\Microsoft Office\OFFICE11\EXCEL.EXE=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\MSCMCFR.DLL=Yes
+C:\WINDOWS\system32\MSCOMCT2.OCX=Yes
+C:\WINDOWS\system32\MSCC2FR.DLL=Yes
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\tabctl32.ocx=Yes
+C:\WINDOWS\system32\MSFLXGRD.OCX=Yes
+C:\WINDOWS\system32\FLXGDFR.DLL=Yes
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\barcodex.ocx=Yes
+C:\WINDOWS\system32\COMDLG32.OCX=Yes
+C:\WINDOWS\system32\CMDLGFR.DLL=Yes
+C:\WINDOWS\system32\MSCHRT20.OCX=Yes
+C:\WINDOWS\system32\MSCH2FR.DLL=Yes
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\vcFRMSHAPECTL.ocx=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|ELGHAD|Configure Registry Files]
+Applicable=No
+
+[Package|ELGHAD|Configure Remote Servers]
+Applicable=No
+
+[Package|ELGHAD|Install Locations]
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\AGEP6.exe=$(AppPath)
+C:\WINDOWS\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB6FR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\ActiveSkin.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\STDFTFR.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Office\OFFICE11\MSACC.OLB=$(WinSysPath)
+C:\WINDOWS\system32\wmp.dll=$(WinSysPath)
+C:\Program Files\Microsoft Office\OFFICE11\EXCEL.EXE=$(AppPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCMCFR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCC2FR.DLL=$(WinSysPath)
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\tabctl32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\FLXGDFR.DLL=$(WinSysPath)
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\barcodex.ocx=$(WinSysPath)
+C:\WINDOWS\system32\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\CMDLGFR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCHRT20.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCH2FR.DLL=$(WinSysPath)
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\vcFRMSHAPECTL.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|ELGHAD|Configure Shared Files]
+Applicable=Yes
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\AGEP6.exe=Yes
+C:\Program Files\Microsoft Office\OFFICE11\EXCEL.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+
+[Package|ELGHAD|Distribution]
+Type=single
+Size=
+Title=AGEP6
+
+[Package|ELGHAD|IconGroups]
+Group0=AGEP6
+PrivateGroup0=Vrai
+Parent0=$(Programs)
+
+[Package|ELGHAD|AGEP6]
+Icon1=AGEP6.exe
+Title1=AGEP6
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|ELGHAD|Package]
+PackageFolder=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\EL_GHAD
+ProjectFolder=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS
+ServerSideCab=
+File1=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\EL_GHAD\setup.exe
+File2=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\EL_GHAD\Setup.Lst
+File3=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\EL_GHAD\AGEP6.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|sdsd|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\Maaref
+
+[Package|sdsd|Configure DAO ISAMs]
+Applicable=No
+
+[Package|sdsd|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|sdsd|Files Found]
+
+[Package|sdsd|Files Released]
+
+[Package|sdsd|Missing Dependency Information]
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\vcFRMSHAPECTL.ocx=
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\barcodex.ocx=
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\tabctl32.ocx=
+C:\Program Files\Microsoft Office\OFFICE11\EXCEL.EXE=
+C:\WINDOWS\system32\wmp.dll=
+C:\Program Files\Microsoft Office\OFFICE11\MSACC.OLB=
+C:\WINDOWS\system32\ActiveSkin.ocx=
+
+[Package|sdsd|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\COMDLG32.OCX=
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+C:\WINDOWS\system32\MSSTDFMT.DLL=
+
+[Package|sdsd|Files Added]
+
+[Package|sdsd|Files Removed]
+
+[Package|sdsd|Files In Project]
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\AGEP6.exe=Yes
+C:\WINDOWS\system32\MSVBVM60.DLL=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\VB6FR.DLL=Yes
+C:\WINDOWS\system32\ActiveSkin.ocx=Yes
+C:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+C:\WINDOWS\system32\STDFTFR.DLL=Yes
+C:\Program Files\Microsoft Office\OFFICE11\MSACC.OLB=Yes
+C:\WINDOWS\system32\wmp.dll=Yes
+C:\Program Files\Microsoft Office\OFFICE11\EXCEL.EXE=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\MSCMCFR.DLL=Yes
+C:\WINDOWS\system32\MSCOMCT2.OCX=Yes
+C:\WINDOWS\system32\MSCC2FR.DLL=Yes
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\tabctl32.ocx=Yes
+C:\WINDOWS\system32\MSFLXGRD.OCX=Yes
+C:\WINDOWS\system32\FLXGDFR.DLL=Yes
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\barcodex.ocx=Yes
+C:\WINDOWS\system32\COMDLG32.OCX=Yes
+C:\WINDOWS\system32\CMDLGFR.DLL=Yes
+C:\WINDOWS\system32\MSCHRT20.OCX=Yes
+C:\WINDOWS\system32\MSCH2FR.DLL=Yes
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\vcFRMSHAPECTL.ocx=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|sdsd|Configure Registry Files]
+Applicable=No
+
+[Package|sdsd|Configure Remote Servers]
+Applicable=No
+
+[Package|sdsd|Install Locations]
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\AGEP6.exe=$(AppPath)
+C:\WINDOWS\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB6FR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\ActiveSkin.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\STDFTFR.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Office\OFFICE11\MSACC.OLB=$(WinSysPath)
+C:\WINDOWS\system32\wmp.dll=$(WinSysPath)
+C:\Program Files\Microsoft Office\OFFICE11\EXCEL.EXE=$(AppPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCMCFR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCC2FR.DLL=$(WinSysPath)
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\tabctl32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\FLXGDFR.DLL=$(WinSysPath)
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\barcodex.ocx=$(WinSysPath)
+C:\WINDOWS\system32\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\CMDLGFR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCHRT20.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCH2FR.DLL=$(WinSysPath)
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\vcFRMSHAPECTL.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|sdsd|Configure Shared Files]
+Applicable=Yes
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\AGEP6.exe=Yes
+C:\Program Files\Microsoft Office\OFFICE11\EXCEL.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+
+[Package|sdsd|Distribution]
+Type=single
+Size=
+Title=AGEP6
+
+[Package|sdsd|IconGroups]
+Group0=AGEP6
+PrivateGroup0=Vrai
+Parent0=$(Programs)
+
+[Package|sdsd|AGEP6]
+Icon1=AGEP6.exe
+Title1=AGEP6
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|sdsd|Package]
+PackageFolder=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\Maaref
+ProjectFolder=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS
+ServerSideCab=
+File1=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\Maaref\setup.exe
+File2=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\Maaref\Setup.Lst
+File3=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\Maaref\AGEP6.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|tak|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Documents and Settings\Aboubekrine\Bureau\AGEP6_ACCESS\TAGHWA
+
+[Package|tak|Configure DAO ISAMs]
+Applicable=No
+
+[Package|tak|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|tak|Files Found]
+
+[Package|tak|Files Released]
+
+[Package|tak|Missing Dependency Information]
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\vcFRMSHAPECTL.ocx=
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\barcodex.ocx=
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\tabctl32.ocx=
+C:\Program Files\Microsoft Office\OFFICE11\EXCEL.EXE=
+C:\WINDOWS\system32\wmp.dll=
+C:\Program Files\Microsoft Office\OFFICE11\MSACC.OLB=
+C:\WINDOWS\system32\ActiveSkin.ocx=
+
+[Package|tak|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\COMDLG32.OCX=
+C:\WINDOWS\system32\msflxgrd.ocx=
+C:\WINDOWS\system32\mscomct2.ocx=
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+C:\WINDOWS\system32\MSSTDFMT.DLL=
+
+[Package|tak|Files Added]
+
+[Package|tak|Files Removed]
+
+[Package|tak|Files In Project]
+C:\Documents and Settings\Aboubekrine\Bureau\AGEP6_ACCESS\AGEP6.exe=Yes
+C:\WINDOWS\system32\MSVBVM60.DLL=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\VB6FR.DLL=Yes
+C:\WINDOWS\system32\ActiveSkin.ocx=Yes
+C:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+C:\WINDOWS\system32\STDFTFR.DLL=Yes
+C:\Program Files\Microsoft Office\OFFICE11\MSACC.OLB=Yes
+C:\WINDOWS\system32\wmp.dll=Yes
+C:\Program Files\Microsoft Office\OFFICE11\EXCEL.EXE=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\MSCMCFR.DLL=Yes
+C:\WINDOWS\system32\mscomct2.ocx=Yes
+C:\WINDOWS\system32\MSCC2FR.DLL=Yes
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\tabctl32.ocx=Yes
+C:\WINDOWS\system32\msflxgrd.ocx=Yes
+C:\WINDOWS\system32\FLXGDFR.DLL=Yes
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\barcodex.ocx=Yes
+C:\WINDOWS\system32\COMDLG32.OCX=Yes
+C:\WINDOWS\system32\CMDLGFR.DLL=Yes
+C:\WINDOWS\system32\MSCHRT20.OCX=Yes
+C:\WINDOWS\system32\MSCH2FR.DLL=Yes
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\vcFRMSHAPECTL.ocx=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|tak|Configure Registry Files]
+Applicable=No
+
+[Package|tak|Configure Remote Servers]
+Applicable=No
+
+[Package|tak|Install Locations]
+C:\Documents and Settings\Aboubekrine\Bureau\AGEP6_ACCESS\AGEP6.exe=$(AppPath)
+C:\WINDOWS\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB6FR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\ActiveSkin.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\STDFTFR.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Office\OFFICE11\MSACC.OLB=$(WinSysPath)
+C:\WINDOWS\system32\wmp.dll=$(WinSysPath)
+C:\Program Files\Microsoft Office\OFFICE11\EXCEL.EXE=$(AppPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCMCFR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\mscomct2.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSCC2FR.DLL=$(WinSysPath)
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\tabctl32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\msflxgrd.ocx=$(WinSysPath)
+C:\WINDOWS\system32\FLXGDFR.DLL=$(WinSysPath)
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\barcodex.ocx=$(WinSysPath)
+C:\WINDOWS\system32\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\CMDLGFR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCHRT20.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCH2FR.DLL=$(WinSysPath)
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\vcFRMSHAPECTL.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|tak|Configure Shared Files]
+Applicable=Yes
+C:\Documents and Settings\Aboubekrine\Bureau\AGEP6_ACCESS\AGEP6.exe=Yes
+C:\Program Files\Microsoft Office\OFFICE11\EXCEL.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+
+[Package|tak|Distribution]
+Type=single
+Size=
+Title=AGEP6
+
+[Package|tak|IconGroups]
+Group0=AGEP6
+PrivateGroup0=Vrai
+Parent0=$(Programs)
+
+[Package|tak|AGEP6]
+Icon1=AGEP6.exe
+Title1=AGEP6
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|tak|Package]
+PackageFolder=C:\Documents and Settings\Aboubekrine\Bureau\AGEP6_ACCESS\TAGHWA
+ProjectFolder=C:\Documents and Settings\Aboubekrine\Bureau\AGEP6_ACCESS
+ServerSideCab=
+File1=C:\Documents and Settings\Aboubekrine\Bureau\AGEP6_ACCESS\TAGHWA\setup.exe
+File2=C:\Documents and Settings\Aboubekrine\Bureau\AGEP6_ACCESS\TAGHWA\Setup.Lst
+File3=C:\Documents and Settings\Aboubekrine\Bureau\AGEP6_ACCESS\TAGHWA\AGEP6.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|houda|Package]
+PackageFolder=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\El Houda
+ProjectFolder=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2
+ServerSideCab=
+File1=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\El Houda\setup.exe
+File2=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\El Houda\Setup.Lst
+File3=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\El Houda\AGEP6.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|houda|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\El Houda
+
+[Package|houda|Configure DAO ISAMs]
+Applicable=No
+
+[Package|houda|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|houda|Files Found]
+
+[Package|houda|Files Released]
+
+[Package|houda|Missing Dependency Information]
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\vcFRMSHAPECTL.ocx=
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\barcodex.ocx=
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\tabctl32.ocx=
+C:\Program Files\Microsoft Office\OFFICE11\EXCEL.EXE=
+C:\WINDOWS\system32\wmp.dll=
+C:\Program Files\Microsoft Office\OFFICE11\MSACC.OLB=
+C:\WINDOWS\system32\ActiveSkin.ocx=
+
+[Package|houda|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\COMDLG32.OCX=
+C:\WINDOWS\system32\msflxgrd.ocx=
+C:\WINDOWS\system32\mscomct2.ocx=
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+C:\WINDOWS\system32\MSSTDFMT.DLL=
+
+[Package|houda|Files Added]
+
+[Package|houda|Files Removed]
+
+[Package|houda|Files In Project]
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\AGEP6.exe=Yes
+C:\WINDOWS\system32\MSVBVM60.DLL=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\VB6FR.DLL=Yes
+C:\WINDOWS\system32\ActiveSkin.ocx=Yes
+C:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+C:\WINDOWS\system32\STDFTFR.DLL=Yes
+C:\Program Files\Microsoft Office\OFFICE11\MSACC.OLB=Yes
+C:\WINDOWS\system32\wmp.dll=Yes
+C:\Program Files\Microsoft Office\OFFICE11\EXCEL.EXE=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\MSCMCFR.DLL=Yes
+C:\WINDOWS\system32\mscomct2.ocx=Yes
+C:\WINDOWS\system32\MSCC2FR.DLL=Yes
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\tabctl32.ocx=Yes
+C:\WINDOWS\system32\msflxgrd.ocx=Yes
+C:\WINDOWS\system32\FLXGDFR.DLL=Yes
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\barcodex.ocx=Yes
+C:\WINDOWS\system32\COMDLG32.OCX=Yes
+C:\WINDOWS\system32\CMDLGFR.DLL=Yes
+C:\WINDOWS\system32\MSCHRT20.OCX=Yes
+C:\WINDOWS\system32\MSCH2FR.DLL=Yes
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\vcFRMSHAPECTL.ocx=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|houda|Configure Registry Files]
+Applicable=No
+
+[Package|houda|Configure Remote Servers]
+Applicable=No
+
+[Package|houda|Install Locations]
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\AGEP6.exe=$(AppPath)
+C:\WINDOWS\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB6FR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\ActiveSkin.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\STDFTFR.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Office\OFFICE11\MSACC.OLB=$(WinSysPath)
+C:\WINDOWS\system32\wmp.dll=$(WinSysPath)
+C:\Program Files\Microsoft Office\OFFICE11\EXCEL.EXE=$(AppPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCMCFR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\mscomct2.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSCC2FR.DLL=$(WinSysPath)
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\tabctl32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\msflxgrd.ocx=$(WinSysPath)
+C:\WINDOWS\system32\FLXGDFR.DLL=$(WinSysPath)
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\barcodex.ocx=$(WinSysPath)
+C:\WINDOWS\system32\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\CMDLGFR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCHRT20.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCH2FR.DLL=$(WinSysPath)
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS\vcFRMSHAPECTL.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|houda|Configure Shared Files]
+Applicable=Yes
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\AGEP6.exe=Yes
+C:\Program Files\Microsoft Office\OFFICE11\EXCEL.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+
+[Package|houda|Distribution]
+Type=single
+Size=
+Title=AGEP6
+
+[Package|houda|IconGroups]
+Group0=AGEP6
+PrivateGroup0=Vrai
+Parent0=$(Programs)
+
+[Package|houda|AGEP6]
+Icon1=AGEP6.exe
+Title1=AGEP6
+StartIn1=$(AppPath)
+Key1=Icon1
+
+
+[Package|Maaref|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\El Maaref
+
+[Package|Maaref|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Maaref|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Maaref|Files Found]
+
+[Package|Maaref|Files Released]
+
+[Package|Maaref|Missing Dependency Information]
+C:\Program Files\PVD\vcFRMSHAPECTL.ocx=
+C:\Program Files\NUD\barcodex.ocx=
+C:\Program Files\Microsoft Office\OFFICE11\EXCEL.EXE=
+C:\WINDOWS\system32\wmp.dll=
+C:\Program Files\Microsoft Office\Office12\MSACC.OLB=
+C:\WINDOWS\system32\MSSTDFMT.DLL=
+C:\Program Files\PVD\actskin4.ocx=
+
+[Package|Maaref|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+
+[Package|Maaref|Files Added]
+
+[Package|Maaref|Files Removed]
+
+[Package|Maaref|Files In Project]
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\AGEP6.exe=Yes
+C:\WINDOWS\system32\MSVBVM60.DLL=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\VB6FR.DLL=Yes
+C:\Program Files\PVD\actskin4.ocx=Yes
+C:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+C:\Program Files\Microsoft Office\Office12\MSACC.OLB=Yes
+C:\WINDOWS\system32\wmp.dll=Yes
+C:\Program Files\Microsoft Office\OFFICE11\EXCEL.EXE=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\MSCMCFR.DLL=Yes
+C:\WINDOWS\system32\MSCOMCT2.OCX=Yes
+C:\WINDOWS\system32\MSCC2FR.DLL=Yes
+C:\WINDOWS\system32\TABCTL32.OCX=Yes
+C:\WINDOWS\system32\TABCTFR.DLL=Yes
+C:\WINDOWS\system32\MSFLXGRD.OCX=Yes
+C:\WINDOWS\system32\FLXGDFR.DLL=Yes
+C:\Program Files\NUD\barcodex.ocx=Yes
+C:\WINDOWS\system32\COMDLG32.OCX=Yes
+C:\WINDOWS\system32\CMDLGFR.DLL=Yes
+C:\WINDOWS\system32\MSCHRT20.OCX=Yes
+C:\WINDOWS\system32\MSCH2FR.DLL=Yes
+C:\Program Files\PVD\vcFRMSHAPECTL.ocx=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|Maaref|Configure Registry Files]
+Applicable=No
+
+[Package|Maaref|Configure Remote Servers]
+Applicable=No
+
+[Package|Maaref|Install Locations]
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\AGEP6.exe=$(AppPath)
+C:\WINDOWS\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB6FR.DLL=$(WinSysPath)
+C:\Program Files\PVD\actskin4.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Office\Office12\MSACC.OLB=$(WinSysPath)
+C:\WINDOWS\system32\wmp.dll=$(WinSysPath)
+C:\Program Files\Microsoft Office\OFFICE11\EXCEL.EXE=$(AppPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCMCFR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCC2FR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\TABCTFR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\FLXGDFR.DLL=$(WinSysPath)
+C:\Program Files\NUD\barcodex.ocx=$(WinSysPath)
+C:\WINDOWS\system32\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\CMDLGFR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCHRT20.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCH2FR.DLL=$(WinSysPath)
+C:\Program Files\PVD\vcFRMSHAPECTL.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|Maaref|Configure Shared Files]
+Applicable=Yes
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\AGEP6.exe=Yes
+C:\Program Files\Microsoft Office\OFFICE11\EXCEL.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+
+[Package|Maaref|Distribution]
+Type=single
+Size=
+Title=AGEP6
+
+[Package|Maaref|IconGroups]
+Group0=AGEP6
+PrivateGroup0=Vrai
+Parent0=$(Programs)
+
+[Package|Maaref|AGEP6]
+Icon1=AGEP6.exe
+Title1=AGEP6
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Maaref|Package]
+PackageFolder=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\El Maaref
+ProjectFolder=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2
+ServerSideCab=
+File1=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\El Maaref\setup.exe
+File2=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\El Maaref\Setup.Lst
+File3=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\El Maaref\AGEP6.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|RAJAA|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\RAJAA
+
+[Package|RAJAA|Configure DAO ISAMs]
+Applicable=No
+
+[Package|RAJAA|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|RAJAA|Files Found]
+
+[Package|RAJAA|Files Released]
+
+[Package|RAJAA|Missing Dependency Information]
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\vcFRMSHAPECTL.ocx=
+C:\Program Files\NUDS\barcodex.ocx=
+C:\Program Files\Microsoft Office\OFFICE11\EXCEL.EXE=
+C:\WINDOWS\system32\wmp.dll=
+C:\Program Files\Microsoft Office\Office12\MSACC.OLB=
+C:\WINDOWS\system32\MSSTDFMT.DLL=
+C:\Program Files\NUDS\actskin4.ocx=
+
+[Package|RAJAA|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+
+[Package|RAJAA|Files Added]
+
+[Package|RAJAA|Files Removed]
+
+[Package|RAJAA|Files In Project]
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\AGEP6.exe=Yes
+C:\WINDOWS\system32\MSVBVM60.DLL=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\VB6FR.DLL=Yes
+C:\Program Files\NUDS\actskin4.ocx=Yes
+C:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+C:\Program Files\Microsoft Office\Office12\MSACC.OLB=Yes
+C:\WINDOWS\system32\wmp.dll=Yes
+C:\Program Files\Microsoft Office\OFFICE11\EXCEL.EXE=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\MSCMCFR.DLL=Yes
+C:\WINDOWS\system32\MSCOMCT2.OCX=Yes
+C:\WINDOWS\system32\MSCC2FR.DLL=Yes
+C:\WINDOWS\system32\TABCTL32.OCX=Yes
+C:\WINDOWS\system32\TABCTFR.DLL=Yes
+C:\WINDOWS\system32\MSFLXGRD.OCX=Yes
+C:\WINDOWS\system32\FLXGDFR.DLL=Yes
+C:\Program Files\NUDS\barcodex.ocx=Yes
+C:\WINDOWS\system32\COMDLG32.OCX=Yes
+C:\WINDOWS\system32\CMDLGFR.DLL=Yes
+C:\WINDOWS\system32\MSCHRT20.OCX=Yes
+C:\WINDOWS\system32\MSCH2FR.DLL=Yes
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\vcFRMSHAPECTL.ocx=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|RAJAA|Configure Registry Files]
+Applicable=No
+
+[Package|RAJAA|Configure Remote Servers]
+Applicable=No
+
+[Package|RAJAA|Install Locations]
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\AGEP6.exe=$(AppPath)
+C:\WINDOWS\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB6FR.DLL=$(WinSysPath)
+C:\Program Files\NUDS\actskin4.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Office\Office12\MSACC.OLB=$(WinSysPath)
+C:\WINDOWS\system32\wmp.dll=$(WinSysPath)
+C:\Program Files\Microsoft Office\OFFICE11\EXCEL.EXE=$(AppPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCMCFR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCC2FR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\TABCTFR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\FLXGDFR.DLL=$(WinSysPath)
+C:\Program Files\NUDS\barcodex.ocx=$(WinSysPath)
+C:\WINDOWS\system32\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\CMDLGFR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCHRT20.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCH2FR.DLL=$(WinSysPath)
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\vcFRMSHAPECTL.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|RAJAA|Configure Shared Files]
+Applicable=Yes
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\AGEP6.exe=Yes
+C:\Program Files\Microsoft Office\OFFICE11\EXCEL.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+
+[Package|RAJAA|Distribution]
+Type=single
+Size=
+Title=AGEP6
+
+[Package|RAJAA|IconGroups]
+Group0=AGEP6
+PrivateGroup0=Vrai
+Parent0=$(Programs)
+
+[Package|RAJAA|AGEP6]
+Icon1=AGEP6.exe
+Title1=AGEP6
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|RAJAA|Package]
+PackageFolder=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\RAJAA
+ProjectFolder=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2
+ServerSideCab=
+File1=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\RAJAA\setup.exe
+File2=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\RAJAA\Setup.Lst
+File3=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\RAJAA\AGEP6.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|TVZ|Package]
+PackageFolder=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\TVZ
+ProjectFolder=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2
+ServerSideCab=
+File1=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\TVZ\setup.exe
+File2=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\TVZ\Setup.Lst
+File3=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\TVZ\AGEP6.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Atlassi_TVZ|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\Atlassi_TVZ
+
+[Package|Atlassi_TVZ|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Atlassi_TVZ|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Atlassi_TVZ|Files Found]
+
+[Package|Atlassi_TVZ|Files Released]
+
+[Package|Atlassi_TVZ|Missing Dependency Information]
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\vcFRMSHAPECTL.ocx=
+C:\Program Files\NUDS\barcodex.ocx=
+C:\Program Files\Microsoft Office\OFFICE11\EXCEL.EXE=
+C:\WINDOWS\system32\wmp.dll=
+C:\Program Files\Microsoft Office\Office12\MSACC.OLB=
+C:\WINDOWS\system32\MSSTDFMT.DLL=
+C:\Program Files\NUDS\actskin4.ocx=
+
+[Package|Atlassi_TVZ|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+
+[Package|Atlassi_TVZ|Files Added]
+
+[Package|Atlassi_TVZ|Files Removed]
+
+[Package|Atlassi_TVZ|Files In Project]
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\AGEP6.exe=Yes
+C:\WINDOWS\system32\MSVBVM60.DLL=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\VB6FR.DLL=Yes
+C:\Program Files\NUDS\actskin4.ocx=Yes
+C:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+C:\Program Files\Microsoft Office\Office12\MSACC.OLB=Yes
+C:\WINDOWS\system32\wmp.dll=Yes
+C:\Program Files\Microsoft Office\OFFICE11\EXCEL.EXE=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\MSCMCFR.DLL=Yes
+C:\WINDOWS\system32\MSCOMCT2.OCX=Yes
+C:\WINDOWS\system32\MSCC2FR.DLL=Yes
+C:\WINDOWS\system32\TABCTL32.OCX=Yes
+C:\WINDOWS\system32\TABCTFR.DLL=Yes
+C:\WINDOWS\system32\MSFLXGRD.OCX=Yes
+C:\WINDOWS\system32\FLXGDFR.DLL=Yes
+C:\Program Files\NUDS\barcodex.ocx=Yes
+C:\WINDOWS\system32\COMDLG32.OCX=Yes
+C:\WINDOWS\system32\CMDLGFR.DLL=Yes
+C:\WINDOWS\system32\MSCHRT20.OCX=Yes
+C:\WINDOWS\system32\MSCH2FR.DLL=Yes
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\vcFRMSHAPECTL.ocx=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|Atlassi_TVZ|Configure Registry Files]
+Applicable=No
+
+[Package|Atlassi_TVZ|Configure Remote Servers]
+Applicable=No
+
+[Package|Atlassi_TVZ|Install Locations]
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\AGEP6.exe=$(AppPath)
+C:\WINDOWS\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB6FR.DLL=$(WinSysPath)
+C:\Program Files\NUDS\actskin4.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Office\Office12\MSACC.OLB=$(WinSysPath)
+C:\WINDOWS\system32\wmp.dll=$(WinSysPath)
+C:\Program Files\Microsoft Office\OFFICE11\EXCEL.EXE=$(AppPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCMCFR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCC2FR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\TABCTFR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\FLXGDFR.DLL=$(WinSysPath)
+C:\Program Files\NUDS\barcodex.ocx=$(WinSysPath)
+C:\WINDOWS\system32\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\CMDLGFR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCHRT20.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCH2FR.DLL=$(WinSysPath)
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\vcFRMSHAPECTL.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|Atlassi_TVZ|Configure Shared Files]
+Applicable=Yes
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\AGEP6.exe=Yes
+C:\Program Files\Microsoft Office\OFFICE11\EXCEL.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+
+[Package|Atlassi_TVZ|Distribution]
+Type=single
+Size=
+Title=AGEP6
+
+[Package|Atlassi_TVZ|IconGroups]
+Group0=AGEP6
+PrivateGroup0=Vrai
+Parent0=$(Programs)
+
+[Package|Atlassi_TVZ|AGEP6]
+Icon1=AGEP6.exe
+Title1=AGEP6
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Atlassi_TVZ|Package]
+PackageFolder=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\Atlassi_TVZ
+ProjectFolder=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2
+ServerSideCab=
+File1=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\Atlassi_TVZ\setup.exe
+File2=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\Atlassi_TVZ\Setup.Lst
+File3=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\Atlassi_TVZ\AGEP6.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|El Ghad|Package]
+PackageFolder=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\El Ghad
+ProjectFolder=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2
+ServerSideCab=
+File1=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\El Ghad\setup.exe
+File2=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\El Ghad\Setup.Lst
+File3=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\El Ghad\AGEP6.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Errajaa|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\Erraja
+
+[Package|Errajaa|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Errajaa|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Errajaa|Files Found]
+
+[Package|Errajaa|Files Released]
+
+[Package|Errajaa|Missing Dependency Information]
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\vcFRMSHAPECTL.ocx=
+C:\Program Files\NUDS\barcodex.ocx=
+C:\Program Files\Microsoft Office\OFFICE11\EXCEL.EXE=
+C:\WINDOWS\system32\wmp.dll=
+C:\Program Files\Microsoft Office\Office12\MSACC.OLB=
+C:\WINDOWS\system32\MSSTDFMT.DLL=
+C:\Program Files\NUDS\actskin4.ocx=
+
+[Package|Errajaa|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+
+[Package|Errajaa|Files Added]
+
+[Package|Errajaa|Files Removed]
+
+[Package|Errajaa|Files In Project]
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\AGEP6.exe=Yes
+C:\WINDOWS\system32\MSVBVM60.DLL=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\VB6FR.DLL=Yes
+C:\Program Files\NUDS\actskin4.ocx=Yes
+C:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+C:\Program Files\Microsoft Office\Office12\MSACC.OLB=Yes
+C:\WINDOWS\system32\wmp.dll=Yes
+C:\Program Files\Microsoft Office\OFFICE11\EXCEL.EXE=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\MSCMCFR.DLL=Yes
+C:\WINDOWS\system32\MSCOMCT2.OCX=Yes
+C:\WINDOWS\system32\MSCC2FR.DLL=Yes
+C:\WINDOWS\system32\TABCTL32.OCX=Yes
+C:\WINDOWS\system32\TABCTFR.DLL=Yes
+C:\WINDOWS\system32\MSFLXGRD.OCX=Yes
+C:\WINDOWS\system32\FLXGDFR.DLL=Yes
+C:\Program Files\NUDS\barcodex.ocx=Yes
+C:\WINDOWS\system32\COMDLG32.OCX=Yes
+C:\WINDOWS\system32\CMDLGFR.DLL=Yes
+C:\WINDOWS\system32\MSCHRT20.OCX=Yes
+C:\WINDOWS\system32\MSCH2FR.DLL=Yes
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\vcFRMSHAPECTL.ocx=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|Errajaa|Configure Registry Files]
+Applicable=No
+
+[Package|Errajaa|Configure Remote Servers]
+Applicable=No
+
+[Package|Errajaa|Install Locations]
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\AGEP6.exe=$(AppPath)
+C:\WINDOWS\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB6FR.DLL=$(WinSysPath)
+C:\Program Files\NUDS\actskin4.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Office\Office12\MSACC.OLB=$(WinSysPath)
+C:\WINDOWS\system32\wmp.dll=$(WinSysPath)
+C:\Program Files\Microsoft Office\OFFICE11\EXCEL.EXE=$(AppPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCMCFR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCC2FR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\TABCTFR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\FLXGDFR.DLL=$(WinSysPath)
+C:\Program Files\NUDS\barcodex.ocx=$(WinSysPath)
+C:\WINDOWS\system32\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\CMDLGFR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCHRT20.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCH2FR.DLL=$(WinSysPath)
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\vcFRMSHAPECTL.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|Errajaa|Configure Shared Files]
+Applicable=Yes
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\AGEP6.exe=Yes
+C:\Program Files\Microsoft Office\OFFICE11\EXCEL.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+
+[Package|Errajaa|Distribution]
+Type=single
+Size=
+Title=AGEP6
+
+[Package|Errajaa|IconGroups]
+Group0=AGEP6
+PrivateGroup0=Vrai
+Parent0=$(Programs)
+
+[Package|Errajaa|AGEP6]
+Icon1=AGEP6.exe
+Title1=AGEP6
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Errajaa|Package]
+PackageFolder=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\Erraja
+ProjectFolder=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2
+ServerSideCab=
+File1=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\Erraja\setup.exe
+File2=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\Erraja\Setup.Lst
+File3=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\Erraja\AGEP6.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|ERRAJA|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\ERRAJA
+
+[Package|ERRAJA|Configure DAO ISAMs]
+Applicable=No
+
+[Package|ERRAJA|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|ERRAJA|Files Found]
+
+[Package|ERRAJA|Files Released]
+
+[Package|ERRAJA|Missing Dependency Information]
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\vcFRMSHAPECTL.ocx=
+C:\Program Files\NUDS\barcodex.ocx=
+C:\Program Files\Microsoft Office\OFFICE11\EXCEL.EXE=
+C:\WINDOWS\system32\wmp.dll=
+C:\Program Files\Microsoft Office\Office12\MSACC.OLB=
+C:\WINDOWS\system32\MSSTDFMT.DLL=
+C:\Program Files\NUDS\actskin4.ocx=
+
+[Package|ERRAJA|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+
+[Package|ERRAJA|Files Added]
+
+[Package|ERRAJA|Files Removed]
+
+[Package|ERRAJA|Files In Project]
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\AGEP6.exe=Yes
+C:\WINDOWS\system32\MSVBVM60.DLL=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\VB6FR.DLL=Yes
+C:\Program Files\NUDS\actskin4.ocx=Yes
+C:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+C:\Program Files\Microsoft Office\Office12\MSACC.OLB=Yes
+C:\WINDOWS\system32\wmp.dll=Yes
+C:\Program Files\Microsoft Office\OFFICE11\EXCEL.EXE=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\MSCMCFR.DLL=Yes
+C:\WINDOWS\system32\MSCOMCT2.OCX=Yes
+C:\WINDOWS\system32\MSCC2FR.DLL=Yes
+C:\WINDOWS\system32\TABCTL32.OCX=Yes
+C:\WINDOWS\system32\TABCTFR.DLL=Yes
+C:\WINDOWS\system32\MSFLXGRD.OCX=Yes
+C:\WINDOWS\system32\FLXGDFR.DLL=Yes
+C:\Program Files\NUDS\barcodex.ocx=Yes
+C:\WINDOWS\system32\COMDLG32.OCX=Yes
+C:\WINDOWS\system32\CMDLGFR.DLL=Yes
+C:\WINDOWS\system32\MSCHRT20.OCX=Yes
+C:\WINDOWS\system32\MSCH2FR.DLL=Yes
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\vcFRMSHAPECTL.ocx=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|ERRAJA|Configure Registry Files]
+Applicable=No
+
+[Package|ERRAJA|Configure Remote Servers]
+Applicable=No
+
+[Package|ERRAJA|Install Locations]
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\AGEP6.exe=$(AppPath)
+C:\WINDOWS\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB6FR.DLL=$(WinSysPath)
+C:\Program Files\NUDS\actskin4.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Office\Office12\MSACC.OLB=$(WinSysPath)
+C:\WINDOWS\system32\wmp.dll=$(WinSysPath)
+C:\Program Files\Microsoft Office\OFFICE11\EXCEL.EXE=$(AppPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCMCFR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCC2FR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\TABCTFR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\FLXGDFR.DLL=$(WinSysPath)
+C:\Program Files\NUDS\barcodex.ocx=$(WinSysPath)
+C:\WINDOWS\system32\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\CMDLGFR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCHRT20.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCH2FR.DLL=$(WinSysPath)
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\vcFRMSHAPECTL.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|ERRAJA|Configure Shared Files]
+Applicable=Yes
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\AGEP6.exe=Yes
+C:\Program Files\Microsoft Office\OFFICE11\EXCEL.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+
+[Package|ERRAJA|Distribution]
+Type=single
+Size=
+Title=AGEP6
+
+[Package|ERRAJA|IconGroups]
+Group0=AGEP6
+PrivateGroup0=Vrai
+Parent0=$(Programs)
+
+[Package|ERRAJA|AGEP6]
+Icon1=AGEP6.exe
+Title1=AGEP6
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|ERRAJA|Package]
+PackageFolder=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\ERRAJA
+ProjectFolder=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2
+ServerSideCab=
+File1=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\ERRAJA\setup.exe
+File2=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\ERRAJA\Setup.Lst
+File3=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\ERRAJA\AGEP6.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|EL MAAREF|Package]
+PackageFolder=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\EL MAAREF
+ProjectFolder=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2
+ServerSideCab=
+File1=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\EL MAAREF\setup.exe
+File2=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\EL MAAREF\Setup.Lst
+File3=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\EL MAAREF\AGEP6.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|EL MAAREF|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\EL MAAREF
+
+[Package|EL MAAREF|Configure DAO ISAMs]
+Applicable=No
+
+[Package|EL MAAREF|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|EL MAAREF|Files Found]
+
+[Package|EL MAAREF|Files Released]
+
+[Package|EL MAAREF|Missing Dependency Information]
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\vcFRMSHAPECTL.ocx=
+C:\Program Files\NUDS\barcodex.ocx=
+C:\Program Files\Microsoft Office\OFFICE11\EXCEL.EXE=
+C:\WINDOWS\system32\wmp.dll=
+C:\Program Files\Microsoft Office\Office12\MSACC.OLB=
+C:\WINDOWS\system32\MSSTDFMT.DLL=
+C:\Program Files\NUDS\actskin4.ocx=
+
+[Package|EL MAAREF|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+
+[Package|EL MAAREF|Files Added]
+
+[Package|EL MAAREF|Files Removed]
+
+[Package|EL MAAREF|Files In Project]
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\AGEP6.exe=Yes
+C:\WINDOWS\system32\MSVBVM60.DLL=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\VB6FR.DLL=Yes
+C:\Program Files\NUDS\actskin4.ocx=Yes
+C:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+C:\Program Files\Microsoft Office\Office12\MSACC.OLB=Yes
+C:\WINDOWS\system32\wmp.dll=Yes
+C:\Program Files\Microsoft Office\OFFICE11\EXCEL.EXE=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\MSCMCFR.DLL=Yes
+C:\WINDOWS\system32\MSCOMCT2.OCX=Yes
+C:\WINDOWS\system32\MSCC2FR.DLL=Yes
+C:\WINDOWS\system32\TABCTL32.OCX=Yes
+C:\WINDOWS\system32\TABCTFR.DLL=Yes
+C:\WINDOWS\system32\MSFLXGRD.OCX=Yes
+C:\WINDOWS\system32\FLXGDFR.DLL=Yes
+C:\Program Files\NUDS\barcodex.ocx=Yes
+C:\WINDOWS\system32\COMDLG32.OCX=Yes
+C:\WINDOWS\system32\CMDLGFR.DLL=Yes
+C:\WINDOWS\system32\MSCHRT20.OCX=Yes
+C:\WINDOWS\system32\MSCH2FR.DLL=Yes
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\vcFRMSHAPECTL.ocx=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|EL MAAREF|Configure Registry Files]
+Applicable=No
+
+[Package|EL MAAREF|Configure Remote Servers]
+Applicable=No
+
+[Package|EL MAAREF|Install Locations]
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\AGEP6.exe=$(AppPath)
+C:\WINDOWS\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB6FR.DLL=$(WinSysPath)
+C:\Program Files\NUDS\actskin4.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Office\Office12\MSACC.OLB=$(WinSysPath)
+C:\WINDOWS\system32\wmp.dll=$(WinSysPath)
+C:\Program Files\Microsoft Office\OFFICE11\EXCEL.EXE=$(AppPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCMCFR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCC2FR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\TABCTFR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\FLXGDFR.DLL=$(WinSysPath)
+C:\Program Files\NUDS\barcodex.ocx=$(WinSysPath)
+C:\WINDOWS\system32\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\CMDLGFR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCHRT20.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCH2FR.DLL=$(WinSysPath)
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\vcFRMSHAPECTL.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|EL MAAREF|Configure Shared Files]
+Applicable=Yes
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\AGEP6.exe=Yes
+C:\Program Files\Microsoft Office\OFFICE11\EXCEL.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+
+[Package|EL MAAREF|Distribution]
+Type=single
+Size=
+Title=AGEP6
+
+[Package|EL MAAREF|IconGroups]
+Group0=AGEP6
+PrivateGroup0=Vrai
+Parent0=$(Programs)
+
+[Package|EL MAAREF|AGEP6]
+Icon1=AGEP6.exe
+Title1=AGEP6
+StartIn1=$(AppPath)
+Key1=Icon1
+
+
+[Package|ARAFAT|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\ARAFAT
+
+[Package|ARAFAT|Configure DAO ISAMs]
+Applicable=No
+
+[Package|ARAFAT|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|ARAFAT|Files Found]
+
+[Package|ARAFAT|Files Released]
+
+[Package|ARAFAT|Missing Dependency Information]
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\vcFRMSHAPECTL.ocx=
+C:\Program Files\NUDS\barcodex.ocx=
+C:\Program Files\Microsoft Office\OFFICE11\EXCEL.EXE=
+C:\WINDOWS\system32\wmp.dll=
+C:\Program Files\Microsoft Office\Office12\MSACC.OLB=
+C:\WINDOWS\system32\MSSTDFMT.DLL=
+C:\Program Files\NUDS\actskin4.ocx=
+
+[Package|ARAFAT|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+
+[Package|ARAFAT|Files Added]
+
+[Package|ARAFAT|Files Removed]
+
+[Package|ARAFAT|Files In Project]
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\AGEP6.exe=Yes
+C:\WINDOWS\system32\MSVBVM60.DLL=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\VB6FR.DLL=Yes
+C:\Program Files\NUDS\actskin4.ocx=Yes
+C:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+C:\Program Files\Microsoft Office\Office12\MSACC.OLB=Yes
+C:\WINDOWS\system32\wmp.dll=Yes
+C:\Program Files\Microsoft Office\OFFICE11\EXCEL.EXE=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\MSCMCFR.DLL=Yes
+C:\WINDOWS\system32\MSCOMCT2.OCX=Yes
+C:\WINDOWS\system32\MSCC2FR.DLL=Yes
+C:\WINDOWS\system32\TABCTL32.OCX=Yes
+C:\WINDOWS\system32\TABCTFR.DLL=Yes
+C:\WINDOWS\system32\MSFLXGRD.OCX=Yes
+C:\WINDOWS\system32\FLXGDFR.DLL=Yes
+C:\Program Files\NUDS\barcodex.ocx=Yes
+C:\WINDOWS\system32\COMDLG32.OCX=Yes
+C:\WINDOWS\system32\CMDLGFR.DLL=Yes
+C:\WINDOWS\system32\MSCHRT20.OCX=Yes
+C:\WINDOWS\system32\MSCH2FR.DLL=Yes
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\vcFRMSHAPECTL.ocx=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|ARAFAT|Configure Registry Files]
+Applicable=No
+
+[Package|ARAFAT|Configure Remote Servers]
+Applicable=No
+
+[Package|ARAFAT|Install Locations]
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\AGEP6.exe=$(AppPath)
+C:\WINDOWS\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB6FR.DLL=$(WinSysPath)
+C:\Program Files\NUDS\actskin4.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Office\Office12\MSACC.OLB=$(WinSysPath)
+C:\WINDOWS\system32\wmp.dll=$(WinSysPath)
+C:\Program Files\Microsoft Office\OFFICE11\EXCEL.EXE=$(AppPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCMCFR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCC2FR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\TABCTFR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\FLXGDFR.DLL=$(WinSysPath)
+C:\Program Files\NUDS\barcodex.ocx=$(WinSysPath)
+C:\WINDOWS\system32\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\CMDLGFR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCHRT20.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCH2FR.DLL=$(WinSysPath)
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\vcFRMSHAPECTL.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|ARAFAT|Configure Shared Files]
+Applicable=Yes
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\AGEP6.exe=Yes
+C:\Program Files\Microsoft Office\OFFICE11\EXCEL.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+
+[Package|ARAFAT|Distribution]
+Type=single
+Size=
+Title=AGEP6
+
+[Package|ARAFAT|IconGroups]
+Group0=AGEP6
+PrivateGroup0=Vrai
+Parent0=$(Programs)
+
+[Package|ARAFAT|AGEP6]
+Icon1=AGEP6.exe
+Title1=AGEP6
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|ARAFAT|Package]
+PackageFolder=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\ARAFAT
+ProjectFolder=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2
+ServerSideCab=
+File1=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\ARAFAT\setup.exe
+File2=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\ARAFAT\Setup.Lst
+File3=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\ARAFAT\AGEP6.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|TVZ|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\TVZ
+
+[Package|TVZ|Configure DAO ISAMs]
+Applicable=No
+
+[Package|TVZ|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|TVZ|Files Found]
+
+[Package|TVZ|Files Released]
+
+[Package|TVZ|Missing Dependency Information]
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\vcFRMSHAPECTL.ocx=
+C:\Program Files\NUDS\barcodex.ocx=
+C:\Program Files\Microsoft Office\OFFICE11\EXCEL.EXE=
+C:\WINDOWS\system32\wmp.dll=
+C:\Program Files\Microsoft Office\Office12\MSACC.OLB=
+C:\WINDOWS\system32\MSSTDFMT.DLL=
+C:\Program Files\NUDS\actskin4.ocx=
+
+[Package|TVZ|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+
+[Package|TVZ|Files Added]
+
+[Package|TVZ|Files Removed]
+
+[Package|TVZ|Files In Project]
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\AGEP6.exe=Yes
+C:\WINDOWS\system32\MSVBVM60.DLL=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\VB6FR.DLL=Yes
+C:\Program Files\NUDS\actskin4.ocx=Yes
+C:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+C:\Program Files\Microsoft Office\Office12\MSACC.OLB=Yes
+C:\WINDOWS\system32\wmp.dll=Yes
+C:\Program Files\Microsoft Office\OFFICE11\EXCEL.EXE=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\MSCMCFR.DLL=Yes
+C:\WINDOWS\system32\MSCOMCT2.OCX=Yes
+C:\WINDOWS\system32\MSCC2FR.DLL=Yes
+C:\WINDOWS\system32\TABCTL32.OCX=Yes
+C:\WINDOWS\system32\TABCTFR.DLL=Yes
+C:\WINDOWS\system32\MSFLXGRD.OCX=Yes
+C:\WINDOWS\system32\FLXGDFR.DLL=Yes
+C:\Program Files\NUDS\barcodex.ocx=Yes
+C:\WINDOWS\system32\COMDLG32.OCX=Yes
+C:\WINDOWS\system32\CMDLGFR.DLL=Yes
+C:\WINDOWS\system32\MSCHRT20.OCX=Yes
+C:\WINDOWS\system32\MSCH2FR.DLL=Yes
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\vcFRMSHAPECTL.ocx=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|TVZ|Configure Registry Files]
+Applicable=No
+
+[Package|TVZ|Configure Remote Servers]
+Applicable=No
+
+[Package|TVZ|Install Locations]
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\AGEP6.exe=$(AppPath)
+C:\WINDOWS\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB6FR.DLL=$(WinSysPath)
+C:\Program Files\NUDS\actskin4.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Office\Office12\MSACC.OLB=$(WinSysPath)
+C:\WINDOWS\system32\wmp.dll=$(WinSysPath)
+C:\Program Files\Microsoft Office\OFFICE11\EXCEL.EXE=$(AppPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCMCFR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCC2FR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\TABCTFR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\FLXGDFR.DLL=$(WinSysPath)
+C:\Program Files\NUDS\barcodex.ocx=$(WinSysPath)
+C:\WINDOWS\system32\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\CMDLGFR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCHRT20.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCH2FR.DLL=$(WinSysPath)
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\vcFRMSHAPECTL.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|TVZ|Configure Shared Files]
+Applicable=Yes
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\AGEP6.exe=Yes
+C:\Program Files\Microsoft Office\OFFICE11\EXCEL.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+
+[Package|TVZ|Distribution]
+Type=single
+Size=
+Title=AGEP6
+
+[Package|TVZ|IconGroups]
+Group0=AGEP6
+PrivateGroup0=Vrai
+Parent0=$(Programs)
+
+[Package|TVZ|AGEP6]
+Icon1=AGEP6.exe
+Title1=AGEP6
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|EL GHAD|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\EL GHAD
+
+[Package|EL GHAD|Configure DAO ISAMs]
+Applicable=No
+
+[Package|EL GHAD|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|EL GHAD|Files Found]
+
+[Package|EL GHAD|Files Released]
+
+[Package|EL GHAD|Missing Dependency Information]
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\vcFRMSHAPECTL.ocx=
+C:\Program Files\NUDS\barcodex.ocx=
+C:\Program Files\Microsoft Office\OFFICE11\EXCEL.EXE=
+C:\WINDOWS\system32\wmp.dll=
+C:\Program Files\Microsoft Office\Office12\MSACC.OLB=
+C:\WINDOWS\system32\MSSTDFMT.DLL=
+C:\Program Files\NUDS\actskin4.ocx=
+
+[Package|EL GHAD|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+
+[Package|EL GHAD|Files Added]
+
+[Package|EL GHAD|Files Removed]
+
+[Package|EL GHAD|Files In Project]
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\AGEP6.exe=Yes
+C:\WINDOWS\system32\MSVBVM60.DLL=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\VB6FR.DLL=Yes
+C:\Program Files\NUDS\actskin4.ocx=Yes
+C:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+C:\Program Files\Microsoft Office\Office12\MSACC.OLB=Yes
+C:\WINDOWS\system32\wmp.dll=Yes
+C:\Program Files\Microsoft Office\OFFICE11\EXCEL.EXE=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\MSCMCFR.DLL=Yes
+C:\WINDOWS\system32\MSCOMCT2.OCX=Yes
+C:\WINDOWS\system32\MSCC2FR.DLL=Yes
+C:\WINDOWS\system32\TABCTL32.OCX=Yes
+C:\WINDOWS\system32\TABCTFR.DLL=Yes
+C:\WINDOWS\system32\MSFLXGRD.OCX=Yes
+C:\WINDOWS\system32\FLXGDFR.DLL=Yes
+C:\Program Files\NUDS\barcodex.ocx=Yes
+C:\WINDOWS\system32\COMDLG32.OCX=Yes
+C:\WINDOWS\system32\CMDLGFR.DLL=Yes
+C:\WINDOWS\system32\MSCHRT20.OCX=Yes
+C:\WINDOWS\system32\MSCH2FR.DLL=Yes
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\vcFRMSHAPECTL.ocx=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|EL GHAD|Configure Registry Files]
+Applicable=No
+
+[Package|EL GHAD|Configure Remote Servers]
+Applicable=No
+
+[Package|EL GHAD|Install Locations]
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\AGEP6.exe=$(AppPath)
+C:\WINDOWS\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB6FR.DLL=$(WinSysPath)
+C:\Program Files\NUDS\actskin4.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Office\Office12\MSACC.OLB=$(WinSysPath)
+C:\WINDOWS\system32\wmp.dll=$(WinSysPath)
+C:\Program Files\Microsoft Office\OFFICE11\EXCEL.EXE=$(AppPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCMCFR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCC2FR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\TABCTFR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\FLXGDFR.DLL=$(WinSysPath)
+C:\Program Files\NUDS\barcodex.ocx=$(WinSysPath)
+C:\WINDOWS\system32\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\CMDLGFR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCHRT20.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCH2FR.DLL=$(WinSysPath)
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\vcFRMSHAPECTL.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|EL GHAD|Configure Shared Files]
+Applicable=Yes
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\AGEP6.exe=Yes
+C:\Program Files\Microsoft Office\OFFICE11\EXCEL.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+
+[Package|EL GHAD|Distribution]
+Type=single
+Size=
+Title=AGEP6
+
+[Package|EL GHAD|IconGroups]
+Group0=AGEP6
+PrivateGroup0=Vrai
+Parent0=$(Programs)
+
+[Package|EL GHAD|AGEP6]
+Icon1=AGEP6.exe
+Title1=AGEP6
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|EL HOUDA|Package]
+PackageFolder=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\EL HOUDA
+ProjectFolder=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2
+ServerSideCab=
+File1=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\EL HOUDA\setup.exe
+File2=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\EL HOUDA\Setup.Lst
+File3=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\EL HOUDA\AGEP6.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|EL HOUDA|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\EL HOUDA
+
+[Package|EL HOUDA|Configure DAO ISAMs]
+Applicable=No
+
+[Package|EL HOUDA|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|EL HOUDA|Files Found]
+
+[Package|EL HOUDA|Files Released]
+
+[Package|EL HOUDA|Missing Dependency Information]
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\vcFRMSHAPECTL.ocx=
+C:\Program Files\NUDS\barcodex.ocx=
+C:\Program Files\Microsoft Office\OFFICE11\EXCEL.EXE=
+C:\WINDOWS\system32\wmp.dll=
+C:\Program Files\Microsoft Office\Office12\MSACC.OLB=
+C:\WINDOWS\system32\MSSTDFMT.DLL=
+C:\Program Files\NUDS\actskin4.ocx=
+
+[Package|EL HOUDA|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+
+[Package|EL HOUDA|Files Added]
+
+[Package|EL HOUDA|Files Removed]
+
+[Package|EL HOUDA|Files In Project]
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\AGEP6.exe=Yes
+C:\WINDOWS\system32\MSVBVM60.DLL=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\VB6FR.DLL=Yes
+C:\Program Files\NUDS\actskin4.ocx=Yes
+C:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+C:\Program Files\Microsoft Office\Office12\MSACC.OLB=Yes
+C:\WINDOWS\system32\wmp.dll=Yes
+C:\Program Files\Microsoft Office\OFFICE11\EXCEL.EXE=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\MSCMCFR.DLL=Yes
+C:\WINDOWS\system32\MSCOMCT2.OCX=Yes
+C:\WINDOWS\system32\MSCC2FR.DLL=Yes
+C:\WINDOWS\system32\TABCTL32.OCX=Yes
+C:\WINDOWS\system32\TABCTFR.DLL=Yes
+C:\WINDOWS\system32\MSFLXGRD.OCX=Yes
+C:\WINDOWS\system32\FLXGDFR.DLL=Yes
+C:\Program Files\NUDS\barcodex.ocx=Yes
+C:\WINDOWS\system32\COMDLG32.OCX=Yes
+C:\WINDOWS\system32\CMDLGFR.DLL=Yes
+C:\WINDOWS\system32\MSCHRT20.OCX=Yes
+C:\WINDOWS\system32\MSCH2FR.DLL=Yes
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\vcFRMSHAPECTL.ocx=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|EL HOUDA|Configure Registry Files]
+Applicable=No
+
+[Package|EL HOUDA|Configure Remote Servers]
+Applicable=No
+
+[Package|EL HOUDA|Install Locations]
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\AGEP6.exe=$(AppPath)
+C:\WINDOWS\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB6FR.DLL=$(WinSysPath)
+C:\Program Files\NUDS\actskin4.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Office\Office12\MSACC.OLB=$(WinSysPath)
+C:\WINDOWS\system32\wmp.dll=$(WinSysPath)
+C:\Program Files\Microsoft Office\OFFICE11\EXCEL.EXE=$(AppPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCMCFR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCC2FR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\TABCTFR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\FLXGDFR.DLL=$(WinSysPath)
+C:\Program Files\NUDS\barcodex.ocx=$(WinSysPath)
+C:\WINDOWS\system32\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\CMDLGFR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCHRT20.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCH2FR.DLL=$(WinSysPath)
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\vcFRMSHAPECTL.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|EL HOUDA|Configure Shared Files]
+Applicable=Yes
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\AGEP6.exe=Yes
+C:\Program Files\Microsoft Office\OFFICE11\EXCEL.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+
+[Package|EL HOUDA|Distribution]
+Type=single
+Size=
+Title=AGEP6
+
+[Package|EL HOUDA|IconGroups]
+Group0=AGEP6
+PrivateGroup0=Vrai
+Parent0=$(Programs)
+
+[Package|EL HOUDA|AGEP6]
+Icon1=AGEP6.exe
+Title1=AGEP6
+StartIn1=$(AppPath)
+Key1=Icon1
+
+
+[Package|tagh|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\Tagh
+
+[Package|tagh|Configure DAO ISAMs]
+Applicable=No
+
+[Package|tagh|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|tagh|Files Found]
+
+[Package|tagh|Files Released]
+
+[Package|tagh|Missing Dependency Information]
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\vcFRMSHAPECTL.ocx=
+C:\Program Files\NUDS\barcodex.ocx=
+C:\Program Files\Microsoft Office\OFFICE11\EXCEL.EXE=
+C:\WINDOWS\system32\wmp.dll=
+C:\Program Files\Microsoft Office\Office12\MSACC.OLB=
+C:\WINDOWS\system32\MSSTDFMT.DLL=
+C:\Program Files\NUDS\actskin4.ocx=
+
+[Package|tagh|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+
+[Package|tagh|Files Added]
+
+[Package|tagh|Files Removed]
+
+[Package|tagh|Files In Project]
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\AGEP6.exe=Yes
+C:\WINDOWS\system32\MSVBVM60.DLL=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\VB6FR.DLL=Yes
+C:\Program Files\NUDS\actskin4.ocx=Yes
+C:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+C:\Program Files\Microsoft Office\Office12\MSACC.OLB=Yes
+C:\WINDOWS\system32\wmp.dll=Yes
+C:\Program Files\Microsoft Office\OFFICE11\EXCEL.EXE=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\MSCMCFR.DLL=Yes
+C:\WINDOWS\system32\MSCOMCT2.OCX=Yes
+C:\WINDOWS\system32\MSCC2FR.DLL=Yes
+C:\WINDOWS\system32\TABCTL32.OCX=Yes
+C:\WINDOWS\system32\TABCTFR.DLL=Yes
+C:\WINDOWS\system32\MSFLXGRD.OCX=Yes
+C:\WINDOWS\system32\FLXGDFR.DLL=Yes
+C:\Program Files\NUDS\barcodex.ocx=Yes
+C:\WINDOWS\system32\COMDLG32.OCX=Yes
+C:\WINDOWS\system32\CMDLGFR.DLL=Yes
+C:\WINDOWS\system32\MSCHRT20.OCX=Yes
+C:\WINDOWS\system32\MSCH2FR.DLL=Yes
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\vcFRMSHAPECTL.ocx=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|tagh|Configure Registry Files]
+Applicable=No
+
+[Package|tagh|Configure Remote Servers]
+Applicable=No
+
+[Package|tagh|Install Locations]
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\AGEP6.exe=$(AppPath)
+C:\WINDOWS\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB6FR.DLL=$(WinSysPath)
+C:\Program Files\NUDS\actskin4.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Office\Office12\MSACC.OLB=$(WinSysPath)
+C:\WINDOWS\system32\wmp.dll=$(WinSysPath)
+C:\Program Files\Microsoft Office\OFFICE11\EXCEL.EXE=$(AppPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCMCFR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCC2FR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\TABCTFR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\FLXGDFR.DLL=$(WinSysPath)
+C:\Program Files\NUDS\barcodex.ocx=$(WinSysPath)
+C:\WINDOWS\system32\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\CMDLGFR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCHRT20.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCH2FR.DLL=$(WinSysPath)
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\vcFRMSHAPECTL.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|tagh|Configure Shared Files]
+Applicable=Yes
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\AGEP6.exe=Yes
+C:\Program Files\Microsoft Office\OFFICE11\EXCEL.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+
+[Package|tagh|Distribution]
+Type=single
+Size=
+Title=AGEP6
+
+[Package|tagh|IconGroups]
+Group0=AGEP6
+PrivateGroup0=Vrai
+Parent0=$(Programs)
+
+[Package|tagh|AGEP6]
+Icon1=AGEP6.exe
+Title1=AGEP6
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|tagh|Package]
+PackageFolder=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\Tagh
+ProjectFolder=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2
+ServerSideCab=
+File1=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\Tagh\setup.exe
+File2=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\Tagh\Setup.Lst
+File3=D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\Tagh\AGEP6.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|HAMDI|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\2-Applications\Mes applications\AGEP6\APPLICATIONS\AGEP6_ACCESS2\HAMDI
+
+[Package|HAMDI|Configure DAO ISAMs]
+Applicable=No
+
+[Package|HAMDI|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|HAMDI|Files Found]
+
+[Package|HAMDI|Files Released]
+
+[Package|HAMDI|Missing Dependency Information]
+D:\2-Applications\Mes applications\AGEP6\APPLICATIONS\OCT\vcFRMSHAPECTL.ocx=
+D:\2-Applications\Mes applications\AGEP6\APPLICATIONS\OCT\barcodex.ocx=
+D:\2-Applications\Mes applications\AGEP6\APPLICATIONS\OCT\tabctl32.ocx=
+C:\Program Files (x86)\Common Files\System\ado\msado28.tlb=
+C:\Program Files (x86)\Microsoft Office\Office12\EXCEL.EXE=
+C:\Windows\System32\wmp.dll=
+C:\Program Files (x86)\Microsoft Office\Office12\MSACC.OLB=
+D:\2-Applications\Mes applications\AGEP6\APPLICATIONS\OCT\actskin4.ocx=
+
+[Package|HAMDI|Out-of-Date Dependency Information]
+C:\Windows\SysWOW64\MSCOMCTL.OCX=
+C:\Windows\SysWOW64\MSSTDFMT.DLL=
+
+[Package|HAMDI|Files Added]
+D:\2-Applications\Mes applications\AGEP6\APPLICATIONS\AGEP6_ACCESS2\ActiveSkin.oca=
+D:\2-Applications\Mes applications\AGEP6\APPLICATIONS\AGEP6_ACCESS2\actskin4.oca=
+D:\2-Applications\Mes applications\AGEP6\APPLICATIONS\AGEP6_ACCESS2\ANNEES.mdb=
+D:\2-Applications\Mes applications\AGEP6\APPLICATIONS\AGEP6_ACCESS2\2015-2016.mdb=
+D:\2-Applications\Mes applications\AGEP6\APPLICATIONS\AGEP6_ACCESS2\ANNEEVIDE.mdb=
+D:\2-Applications\Mes applications\AGEP6\APPLICATIONS\AGEP6_ACCESS2\CARTESVIDES.mdb=
+D:\2-Applications\Mes applications\AGEP6\APPLICATIONS\AGEP6_ACCESS2\green.skn=
+D:\2-Applications\Mes applications\AGEP6\APPLICATIONS\AGEP6_ACCESS2\nophotof.JPG=
+D:\2-Applications\Mes applications\AGEP6\APPLICATIONS\AGEP6_ACCESS2\nophotom.JPG=
+D:\2-Applications\Mes applications\AGEP6\APPLICATIONS\AGEP6_ACCESS2\notes.jpg=
+D:\2-Applications\Mes applications\AGEP6\APPLICATIONS\AGEP6_ACCESS2\tabctl32.oca=
+D:\2-Applications\Mes applications\AGEP6\APPLICATIONS\AGEP6_ACCESS2\vcFRMSHAPECTL.oca=
+
+[Package|HAMDI|Files Removed]
+
+[Package|HAMDI|Files In Project]
+D:\2-Applications\Mes applications\AGEP6\APPLICATIONS\AGEP6_ACCESS2\AGEP6.exe=Yes
+C:\Windows\System32\msvbvm60.dll=Yes
+C:\Windows\System32\oleaut32.dll=Yes
+C:\Windows\System32\olepro32.dll=Yes
+C:\Windows\System32\asycfilt.dll=Yes
+C:\Windows\System32\stdole2.tlb=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Windows\System32\VB6FR.DLL=Yes
+D:\2-Applications\Mes applications\AGEP6\APPLICATIONS\OCT\actskin4.ocx=Yes
+C:\Windows\SysWOW64\MSSTDFMT.DLL=Yes
+C:\Windows\SysWOW64\STDFTFR.DLL=Yes
+C:\Program Files (x86)\Microsoft Office\Office12\MSACC.OLB=Yes
+C:\Windows\System32\wmp.dll=Yes
+C:\Program Files (x86)\Microsoft Office\Office12\EXCEL.EXE=Yes
+C:\Program Files (x86)\Common Files\System\ado\msado28.tlb=Yes
+C:\Windows\SysWOW64\MSCOMCTL.OCX=Yes
+C:\Windows\SysWOW64\MSCMCFR.DLL=Yes
+C:\Windows\SysWOW64\MSCOMCT2.OCX=Yes
+C:\Windows\SysWOW64\MSCC2FR.DLL=Yes
+D:\2-Applications\Mes applications\AGEP6\APPLICATIONS\OCT\tabctl32.ocx=Yes
+C:\Windows\SysWOW64\MSFLXGRD.OCX=Yes
+C:\Windows\SysWOW64\FLXGDFR.DLL=Yes
+D:\2-Applications\Mes applications\AGEP6\APPLICATIONS\OCT\barcodex.ocx=Yes
+C:\Windows\SysWOW64\COMDLG32.OCX=Yes
+C:\Windows\SysWOW64\CMDLGFR.DLL=Yes
+C:\Windows\SysWOW64\MSCHRT20.OCX=Yes
+C:\Windows\SysWOW64\MSCH2FR.DLL=Yes
+D:\2-Applications\Mes applications\AGEP6\APPLICATIONS\OCT\vcFRMSHAPECTL.ocx=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Windows\System32\VB6STKIT.DLL=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+D:\2-Applications\Mes applications\AGEP6\APPLICATIONS\AGEP6_ACCESS2\ActiveSkin.oca=Yes
+D:\2-Applications\Mes applications\AGEP6\APPLICATIONS\AGEP6_ACCESS2\actskin4.oca=Yes
+D:\2-Applications\Mes applications\AGEP6\APPLICATIONS\AGEP6_ACCESS2\ANNEES.mdb=Yes
+D:\2-Applications\Mes applications\AGEP6\APPLICATIONS\AGEP6_ACCESS2\2015-2016.mdb=Yes
+D:\2-Applications\Mes applications\AGEP6\APPLICATIONS\AGEP6_ACCESS2\ANNEEVIDE.mdb=Yes
+D:\2-Applications\Mes applications\AGEP6\APPLICATIONS\AGEP6_ACCESS2\CARTESVIDES.mdb=Yes
+D:\2-Applications\Mes applications\AGEP6\APPLICATIONS\AGEP6_ACCESS2\green.skn=Yes
+D:\2-Applications\Mes applications\AGEP6\APPLICATIONS\AGEP6_ACCESS2\nophotof.JPG=Yes
+D:\2-Applications\Mes applications\AGEP6\APPLICATIONS\AGEP6_ACCESS2\nophotom.JPG=Yes
+D:\2-Applications\Mes applications\AGEP6\APPLICATIONS\AGEP6_ACCESS2\notes.jpg=Yes
+D:\2-Applications\Mes applications\AGEP6\APPLICATIONS\AGEP6_ACCESS2\tabctl32.oca=Yes
+D:\2-Applications\Mes applications\AGEP6\APPLICATIONS\AGEP6_ACCESS2\vcFRMSHAPECTL.oca=Yes
+
+[Package|HAMDI|Configure Registry Files]
+Applicable=No
+
+[Package|HAMDI|Configure Remote Servers]
+Applicable=No
+
+[Package|HAMDI|Install Locations]
+D:\2-Applications\Mes applications\AGEP6\APPLICATIONS\AGEP6_ACCESS2\AGEP6.exe=$(AppPath)
+C:\Windows\System32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Windows\System32\oleaut32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\olepro32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\asycfilt.dll=$(WinSysPathSysFile)
+C:\Windows\System32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\VB6FR.DLL=$(WinSysPath)
+D:\2-Applications\Mes applications\AGEP6\APPLICATIONS\OCT\actskin4.ocx=$(WinSysPath)
+C:\Windows\SysWOW64\MSSTDFMT.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\STDFTFR.DLL=$(WinSysPath)
+C:\Program Files (x86)\Microsoft Office\Office12\MSACC.OLB=$(WinSysPath)
+C:\Windows\System32\wmp.dll=$(AppPath)
+C:\Program Files (x86)\Microsoft Office\Office12\EXCEL.EXE=$(AppPath)
+C:\Program Files (x86)\Common Files\System\ado\msado28.tlb=$(WinSysPath)
+C:\Windows\SysWOW64\MSCOMCTL.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\MSCMCFR.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\MSCOMCT2.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\MSCC2FR.DLL=$(WinSysPath)
+D:\2-Applications\Mes applications\AGEP6\APPLICATIONS\OCT\tabctl32.ocx=$(WinSysPath)
+C:\Windows\SysWOW64\MSFLXGRD.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\FLXGDFR.DLL=$(WinSysPath)
+D:\2-Applications\Mes applications\AGEP6\APPLICATIONS\OCT\barcodex.ocx=$(WinSysPath)
+C:\Windows\SysWOW64\COMDLG32.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\CMDLGFR.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\MSCHRT20.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\MSCH2FR.DLL=$(WinSysPath)
+D:\2-Applications\Mes applications\AGEP6\APPLICATIONS\OCT\vcFRMSHAPECTL.ocx=$(WinSysPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Windows\System32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\2-Applications\Mes applications\AGEP6\APPLICATIONS\AGEP6_ACCESS2\ActiveSkin.oca=$(AppPath)
+D:\2-Applications\Mes applications\AGEP6\APPLICATIONS\AGEP6_ACCESS2\actskin4.oca=$(AppPath)
+D:\2-Applications\Mes applications\AGEP6\APPLICATIONS\AGEP6_ACCESS2\ANNEES.mdb=$(AppPath)
+D:\2-Applications\Mes applications\AGEP6\APPLICATIONS\AGEP6_ACCESS2\2015-2016.mdb=$(AppPath)
+D:\2-Applications\Mes applications\AGEP6\APPLICATIONS\AGEP6_ACCESS2\ANNEEVIDE.mdb=$(AppPath)
+D:\2-Applications\Mes applications\AGEP6\APPLICATIONS\AGEP6_ACCESS2\CARTESVIDES.mdb=$(AppPath)
+D:\2-Applications\Mes applications\AGEP6\APPLICATIONS\AGEP6_ACCESS2\green.skn=$(AppPath)
+D:\2-Applications\Mes applications\AGEP6\APPLICATIONS\AGEP6_ACCESS2\nophotof.JPG=$(AppPath)
+D:\2-Applications\Mes applications\AGEP6\APPLICATIONS\AGEP6_ACCESS2\nophotom.JPG=$(AppPath)
+D:\2-Applications\Mes applications\AGEP6\APPLICATIONS\AGEP6_ACCESS2\notes.jpg=$(AppPath)
+D:\2-Applications\Mes applications\AGEP6\APPLICATIONS\AGEP6_ACCESS2\tabctl32.oca=$(AppPath)
+D:\2-Applications\Mes applications\AGEP6\APPLICATIONS\AGEP6_ACCESS2\vcFRMSHAPECTL.oca=$(AppPath)
+
+[Package|HAMDI|Configure Shared Files]
+Applicable=Yes
+D:\2-Applications\Mes applications\AGEP6\APPLICATIONS\AGEP6_ACCESS2\AGEP6.exe=Yes
+C:\Windows\System32\wmp.dll=Yes
+C:\Program Files (x86)\Microsoft Office\Office12\EXCEL.EXE=Yes
+D:\2-Applications\Mes applications\AGEP6\APPLICATIONS\AGEP6_ACCESS2\ActiveSkin.oca=Yes
+D:\2-Applications\Mes applications\AGEP6\APPLICATIONS\AGEP6_ACCESS2\actskin4.oca=Yes
+D:\2-Applications\Mes applications\AGEP6\APPLICATIONS\AGEP6_ACCESS2\ANNEES.mdb=Yes
+D:\2-Applications\Mes applications\AGEP6\APPLICATIONS\AGEP6_ACCESS2\2015-2016.mdb=Yes
+D:\2-Applications\Mes applications\AGEP6\APPLICATIONS\AGEP6_ACCESS2\ANNEEVIDE.mdb=Yes
+D:\2-Applications\Mes applications\AGEP6\APPLICATIONS\AGEP6_ACCESS2\CARTESVIDES.mdb=Yes
+D:\2-Applications\Mes applications\AGEP6\APPLICATIONS\AGEP6_ACCESS2\green.skn=Yes
+D:\2-Applications\Mes applications\AGEP6\APPLICATIONS\AGEP6_ACCESS2\nophotof.JPG=Yes
+D:\2-Applications\Mes applications\AGEP6\APPLICATIONS\AGEP6_ACCESS2\nophotom.JPG=Yes
+D:\2-Applications\Mes applications\AGEP6\APPLICATIONS\AGEP6_ACCESS2\notes.jpg=Yes
+D:\2-Applications\Mes applications\AGEP6\APPLICATIONS\AGEP6_ACCESS2\tabctl32.oca=Yes
+D:\2-Applications\Mes applications\AGEP6\APPLICATIONS\AGEP6_ACCESS2\vcFRMSHAPECTL.oca=Yes
+
+[Package|HAMDI|Distribution]
+Type=single
+Size=
+Title=AGEP6
+
+[Package|HAMDI|IconGroups]
+Group0=AGEP6
+PrivateGroup0=Vrai
+Parent0=$(Programs)
+
+[Package|HAMDI|AGEP6]
+Icon1=AGEP6.exe
+Title1=AGEP6
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|HAMDI|Package]
+PackageFolder=D:\2-Applications\Mes applications\AGEP6\APPLICATIONS\AGEP6_ACCESS2\HAMDI
+ProjectFolder=D:\2-Applications\Mes applications\AGEP6\APPLICATIONS\AGEP6_ACCESS2
+ServerSideCab=
+File1=D:\2-Applications\Mes applications\AGEP6\APPLICATIONS\AGEP6_ACCESS2\HAMDI\setup.exe
+File2=D:\2-Applications\Mes applications\AGEP6\APPLICATIONS\AGEP6_ACCESS2\HAMDI\Setup.Lst
+File3=D:\2-Applications\Mes applications\AGEP6\APPLICATIONS\AGEP6_ACCESS2\HAMDI\AGEP6.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|TAGHWA|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=e:\AGEP6\APPLICATIONS\AGEP6_ACCESS2\setup
+
+[Package|TAGHWA|Configure DAO ISAMs]
+Applicable=No
+
+[Package|TAGHWA|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|TAGHWA|Files Found]
+
+[Package|TAGHWA|Files Released]
+C2015-2016.mdb=
+ANNEEVIDE.mdb=
+ANNEES.mdb=
+2015-2016.mdb=
+
+[Package|TAGHWA|Missing Dependency Information]
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\vcFRMSHAPECTL.ocx=
+C:\Program Files\NUDS\barcodex.ocx=
+C:\Program Files\Microsoft Office\OFFICE11\EXCEL.EXE=
+C:\WINDOWS\system32\wmp.dll=
+C:\Program Files\Microsoft Office\Office12\MSACC.OLB=
+C:\WINDOWS\system32\MSSTDFMT.DLL=
+C:\Program Files\NUDS\actskin4.ocx=
+D:\2-Applications\Mes applications\ANC\vcFRMSHAPECTL.ocx=
+D:\2-Applications\Mes applications\AGEP6\APPLICATIONS\AGEP6_ACCESS2\barcodex.ocx=
+C:\Program Files (x86)\Common Files\System\ado\msado28.tlb=
+C:\Program Files (x86)\Microsoft Office\Office12\EXCEL.EXE=
+C:\Program Files (x86)\Microsoft Office\Office12\MSACC.OLB=
+D:\2-Applications\Mes applications\ANC\actskin4.ocx=
+E:\AGEP7\OCT\vcFRMSHAPECTL.ocx=
+E:\AGEP7\OCT\barcodex.ocx=
+E:\AGEP7\OCT\tabctl32.ocx=
+C:\Windows\SysWOW64\msstdfmt.dll=
+E:\AGEP7\OCT\actskin4.ocx=
+
+[Package|TAGHWA|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+C:\Windows\SysWOW64\COMDLG32.OCX=
+C:\Windows\SysWOW64\tabctl32.ocx=
+C:\Windows\SysWOW64\MSCOMCT2.OCX=
+C:\Windows\SysWOW64\MSCOMCTL.OCX=
+C:\Windows\SysWOW64\msstdfmt.dll=
+
+[Package|TAGHWA|Files Added]
+2015-2016.mdb=
+annees.mdb=
+anneevide.mdb=
+c2015-2016.mdb=
+
+[Package|TAGHWA|Files Removed]
+
+[Package|TAGHWA|Files In Project]
+C:\WINDOWS\system32\MSVBVM60.DLL=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\WINDOWS\system32\VB6FR.DLL=Yes
+C:\WINDOWS\system32\wmp.dll=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Windows\SysWOW64\msstdfmt.dll=Yes
+C:\Program Files (x86)\Microsoft Office\Office12\MSACC.OLB=Yes
+C:\Program Files (x86)\Microsoft Office\Office12\EXCEL.EXE=Yes
+C:\Program Files (x86)\Common Files\System\ado\msado28.tlb=Yes
+C:\Windows\SysWOW64\MSCOMCTL.OCX=Yes
+C:\Windows\SysWOW64\MSCMCFR.DLL=Yes
+C:\Windows\SysWOW64\MSCOMCT2.OCX=Yes
+C:\Windows\SysWOW64\MSCC2FR.DLL=Yes
+C:\Windows\SysWOW64\msflxgrd.ocx=Yes
+C:\Windows\SysWOW64\FLXGDFR.DLL=Yes
+C:\Windows\SysWOW64\COMDLG32.OCX=Yes
+C:\Windows\SysWOW64\CMDLGFR.DLL=Yes
+C:\Windows\SysWOW64\MSCHRT20.OCX=Yes
+C:\Windows\SysWOW64\MSCH2FR.DLL=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+E:\AGEP6\APPLICATIONS\AGEP6_ACCESS2\AGEP6.exe=Yes
+E:\AGEP7\OCT\actskin4.ocx=Yes
+E:\AGEP7\OCT\tabctl32.ocx=Yes
+E:\AGEP7\OCT\barcodex.ocx=Yes
+E:\AGEP7\OCT\vcFRMSHAPECTL.ocx=Yes
+
+[Package|TAGHWA|Configure Registry Files]
+Applicable=No
+
+[Package|TAGHWA|Configure Remote Servers]
+Applicable=No
+
+[Package|TAGHWA|Install Locations]
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\AGEP6.exe=$(AppPath)
+C:\WINDOWS\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB6FR.DLL=$(WinSysPath)
+C:\Program Files\NUDS\actskin4.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Office\Office12\MSACC.OLB=$(WinSysPath)
+C:\WINDOWS\system32\wmp.dll=$(WinSysPath)
+C:\Program Files\Microsoft Office\OFFICE11\EXCEL.EXE=$(AppPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCMCFR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCC2FR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\TABCTFR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\FLXGDFR.DLL=$(WinSysPath)
+C:\Program Files\NUDS\barcodex.ocx=$(WinSysPath)
+C:\WINDOWS\system32\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\CMDLGFR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCHRT20.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCH2FR.DLL=$(WinSysPath)
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\vcFRMSHAPECTL.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\2-Applications\Mes applications\AGEP6\APPLICATIONS\AGEP6_ACCESS2\AGEP6.exe=$(AppPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+D:\2-Applications\Mes applications\ANC\actskin4.ocx=$(WinSysPath)
+C:\Windows\SysWOW64\msstdfmt.dll=$(WinSysPath)
+C:\Windows\SysWOW64\STDFTFR.DLL=$(WinSysPath)
+C:\Program Files (x86)\Microsoft Office\Office12\MSACC.OLB=$(WinSysPath)
+C:\Program Files (x86)\Microsoft Office\Office12\EXCEL.EXE=$(AppPath)
+C:\Program Files (x86)\Common Files\System\ado\msado28.tlb=$(WinSysPath)
+C:\Windows\SysWOW64\MSCOMCTL.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\MSCMCFR.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\MSCOMCT2.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\MSCC2FR.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\tabctl32.ocx=$(WinSysPath)
+C:\Windows\SysWOW64\TABCTFR.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\msflxgrd.ocx=$(WinSysPath)
+C:\Windows\SysWOW64\FLXGDFR.DLL=$(WinSysPath)
+D:\2-Applications\Mes applications\AGEP6\APPLICATIONS\AGEP6_ACCESS2\barcodex.ocx=$(WinSysPath)
+C:\Windows\SysWOW64\COMDLG32.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\CMDLGFR.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\MSCHRT20.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\MSCH2FR.DLL=$(WinSysPath)
+D:\2-Applications\Mes applications\ANC\vcFRMSHAPECTL.ocx=$(WinSysPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\2-Applications\Mes applications\AGEP6\APPLICATIONS\AGEP6_ACCESS2\2015-2016.mdb=$(AppPath)
+D:\2-Applications\Mes applications\AGEP6\APPLICATIONS\AGEP6_ACCESS2\ANNEES.mdb=$(AppPath)
+D:\2-Applications\Mes applications\AGEP6\APPLICATIONS\AGEP6_ACCESS2\ANNEEVIDE.mdb=$(AppPath)
+D:\2-Applications\Mes applications\AGEP6\APPLICATIONS\AGEP6_ACCESS2\C2015-2016.mdb=$(AppPath)
+E:\AGEP6\APPLICATIONS\AGEP6_ACCESS2\AGEP6.exe=$(AppPath)
+E:\AGEP7\OCT\actskin4.ocx=$(WinSysPath)
+E:\AGEP7\OCT\tabctl32.ocx=$(WinSysPath)
+E:\AGEP7\OCT\barcodex.ocx=$(WinSysPath)
+E:\AGEP7\OCT\vcFRMSHAPECTL.ocx=$(WinSysPath)
+
+[Package|TAGHWA|Configure Shared Files]
+Applicable=Yes
+D:\APP6\AGEP6\APPLICATIONS\AGEP6_ACCESS2\AGEP6.exe=Yes
+C:\Program Files\Microsoft Office\OFFICE11\EXCEL.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+D:\2-Applications\Mes applications\AGEP6\APPLICATIONS\AGEP6_ACCESS2\AGEP6.exe=Yes
+C:\Program Files (x86)\Microsoft Office\Office12\EXCEL.EXE=Yes
+D:\2-Applications\Mes applications\AGEP6\APPLICATIONS\AGEP6_ACCESS2\2015-2016.mdb=Yes
+D:\2-Applications\Mes applications\AGEP6\APPLICATIONS\AGEP6_ACCESS2\ANNEES.mdb=Yes
+D:\2-Applications\Mes applications\AGEP6\APPLICATIONS\AGEP6_ACCESS2\ANNEEVIDE.mdb=Yes
+D:\2-Applications\Mes applications\AGEP6\APPLICATIONS\AGEP6_ACCESS2\C2015-2016.mdb=Yes
+E:\AGEP6\APPLICATIONS\AGEP6_ACCESS2\AGEP6.exe=Yes
+
+[Package|TAGHWA|Distribution]
+Type=single
+Size=
+Title=AGEP6
+
+[Package|TAGHWA|IconGroups]
+Group0=AGEP6
+PrivateGroup0=Faux
+Parent0=$(Programs)
+
+[Package|TAGHWA|AGEP6]
+Icon1=AGEP6.exe
+Title1=AGEP6
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|TAGHWA|Package]
+PackageFolder=e:\AGEP6\APPLICATIONS\AGEP6_ACCESS2\setup
+ProjectFolder=E:\AGEP6\APPLICATIONS\AGEP6_ACCESS2
+ServerSideCab=
+File1=e:\AGEP6\APPLICATIONS\AGEP6_ACCESS2\setup\setup.exe
+File2=e:\AGEP6\APPLICATIONS\AGEP6_ACCESS2\setup\Setup.Lst
+File3=e:\AGEP6\APPLICATIONS\AGEP6_ACCESS2\setup\AGEP6.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Ebety|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=E:\AGEP6\APPLICATIONS\AGEP6_ACCESS2\Ebety
+
+[Package|Ebety|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Ebety|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Ebety|Files Found]
+
+[Package|Ebety|Files Released]
+
+[Package|Ebety|Missing Dependency Information]
+E:\AGEP7\OCT\vcFRMSHAPECTL.ocx=
+E:\AGEP7\OCT\barcodex.ocx=
+E:\AGEP7\OCT\tabctl32.ocx=
+C:\Program Files (x86)\Common Files\System\ado\msado28.tlb=
+C:\Program Files (x86)\Microsoft Office\Office12\EXCEL.EXE=
+C:\Windows\System32\wmp.dll=
+C:\Program Files (x86)\Microsoft Office\Office12\MSACC.OLB=
+C:\Windows\SysWOW64\msstdfmt.dll=
+E:\AGEP7\OCT\actskin4.ocx=
+
+[Package|Ebety|Out-of-Date Dependency Information]
+C:\Windows\SysWOW64\COMDLG32.OCX=
+C:\Windows\SysWOW64\MSCOMCT2.OCX=
+C:\Windows\SysWOW64\MSCOMCTL.OCX=
+
+[Package|Ebety|Files Added]
+E:\AGEP6\APPLICATIONS\AGEP6_ACCESS2\2018-2019.mdb=
+E:\AGEP6\APPLICATIONS\AGEP6_ACCESS2\C2018-2019.mdb=
+E:\AGEP6\APPLICATIONS\AGEP6_ACCESS2\ANNEES.mdb=
+
+[Package|Ebety|Files Removed]
+
+[Package|Ebety|Files In Project]
+E:\AGEP6\APPLICATIONS\AGEP6_ACCESS2\AGEP6.exe=Yes
+C:\Windows\System32\msvbvm60.dll=Yes
+C:\Windows\System32\oleaut32.dll=Yes
+C:\Windows\System32\olepro32.dll=Yes
+C:\Windows\System32\asycfilt.dll=Yes
+C:\Windows\System32\stdole2.tlb=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Windows\System32\VB6FR.DLL=Yes
+E:\AGEP7\OCT\actskin4.ocx=Yes
+C:\Windows\SysWOW64\msstdfmt.dll=Yes
+C:\Program Files (x86)\Microsoft Office\Office12\MSACC.OLB=Yes
+C:\Windows\System32\wmp.dll=Yes
+C:\Program Files (x86)\Microsoft Office\Office12\EXCEL.EXE=Yes
+C:\Program Files (x86)\Common Files\System\ado\msado28.tlb=Yes
+C:\Windows\SysWOW64\MSCOMCTL.OCX=Yes
+C:\Windows\SysWOW64\MSCMCFR.DLL=Yes
+C:\Windows\SysWOW64\MSCOMCT2.OCX=Yes
+C:\Windows\SysWOW64\MSCC2FR.DLL=Yes
+E:\AGEP7\OCT\tabctl32.ocx=Yes
+C:\Windows\SysWOW64\MSFLXGRD.OCX=Yes
+C:\Windows\SysWOW64\FLXGDFR.DLL=Yes
+E:\AGEP7\OCT\barcodex.ocx=Yes
+C:\Windows\SysWOW64\COMDLG32.OCX=Yes
+C:\Windows\SysWOW64\CMDLGFR.DLL=Yes
+C:\Windows\SysWOW64\MSCHRT20.OCX=Yes
+C:\Windows\SysWOW64\MSCH2FR.DLL=Yes
+E:\AGEP7\OCT\vcFRMSHAPECTL.ocx=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Windows\System32\VB6STKIT.DLL=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+E:\AGEP6\APPLICATIONS\AGEP6_ACCESS2\2018-2019.mdb=Yes
+E:\AGEP6\APPLICATIONS\AGEP6_ACCESS2\C2018-2019.mdb=Yes
+E:\AGEP6\APPLICATIONS\AGEP6_ACCESS2\ANNEES.mdb=Yes
+
+[Package|Ebety|Configure Registry Files]
+Applicable=No
+
+[Package|Ebety|Configure Remote Servers]
+Applicable=No
+
+[Package|Ebety|Install Locations]
+E:\AGEP6\APPLICATIONS\AGEP6_ACCESS2\AGEP6.exe=$(AppPath)
+C:\Windows\System32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Windows\System32\oleaut32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\olepro32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\asycfilt.dll=$(WinSysPathSysFile)
+C:\Windows\System32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\VB6FR.DLL=$(WinSysPath)
+E:\AGEP7\OCT\actskin4.ocx=$(WinSysPath)
+C:\Windows\SysWOW64\msstdfmt.dll=$(WinSysPath)
+C:\Program Files (x86)\Microsoft Office\Office12\MSACC.OLB=$(WinSysPath)
+C:\Windows\System32\wmp.dll=$(AppPath)
+C:\Program Files (x86)\Microsoft Office\Office12\EXCEL.EXE=$(AppPath)
+C:\Program Files (x86)\Common Files\System\ado\msado28.tlb=$(WinSysPath)
+C:\Windows\SysWOW64\MSCOMCTL.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\MSCMCFR.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\MSCOMCT2.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\MSCC2FR.DLL=$(WinSysPath)
+E:\AGEP7\OCT\tabctl32.ocx=$(WinSysPath)
+C:\Windows\SysWOW64\MSFLXGRD.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\FLXGDFR.DLL=$(WinSysPath)
+E:\AGEP7\OCT\barcodex.ocx=$(WinSysPath)
+C:\Windows\SysWOW64\COMDLG32.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\CMDLGFR.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\MSCHRT20.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\MSCH2FR.DLL=$(WinSysPath)
+E:\AGEP7\OCT\vcFRMSHAPECTL.ocx=$(WinSysPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Windows\System32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+E:\AGEP6\APPLICATIONS\AGEP6_ACCESS2\2018-2019.mdb=$(AppPath)
+E:\AGEP6\APPLICATIONS\AGEP6_ACCESS2\C2018-2019.mdb=$(AppPath)
+E:\AGEP6\APPLICATIONS\AGEP6_ACCESS2\ANNEES.mdb=$(AppPath)
+
+[Package|Ebety|Configure Shared Files]
+Applicable=Yes
+E:\AGEP6\APPLICATIONS\AGEP6_ACCESS2\AGEP6.exe=Yes
+C:\Windows\System32\wmp.dll=Yes
+C:\Program Files (x86)\Microsoft Office\Office12\EXCEL.EXE=Yes
+E:\AGEP6\APPLICATIONS\AGEP6_ACCESS2\2018-2019.mdb=Yes
+E:\AGEP6\APPLICATIONS\AGEP6_ACCESS2\C2018-2019.mdb=Yes
+E:\AGEP6\APPLICATIONS\AGEP6_ACCESS2\ANNEES.mdb=Yes
+
+[Package|Ebety|Distribution]
+Type=single
+Size=
+Title=AGEP6
+
+[Package|Ebety|IconGroups]
+Group0=AGEP6
+PrivateGroup0=Vrai
+Parent0=$(Programs)
+
+[Package|Ebety|AGEP6]
+Icon1=AGEP6.exe
+Title1=AGEP6
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Ebety|Package]
+PackageFolder=E:\AGEP6\APPLICATIONS\AGEP6_ACCESS2\Ebety
+ProjectFolder=E:\AGEP6\APPLICATIONS\AGEP6_ACCESS2
+ServerSideCab=
+File1=E:\AGEP6\APPLICATIONS\AGEP6_ACCESS2\Ebety\setup.exe
+File2=E:\AGEP6\APPLICATIONS\AGEP6_ACCESS2\Ebety\Setup.Lst
+File3=E:\AGEP6\APPLICATIONS\AGEP6_ACCESS2\Ebety\AGEP6.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|EBETY2|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\AGEP6_ACCESS2\EBETY2
+
+[Package|EBETY2|Configure DAO ISAMs]
+Applicable=No
+
+[Package|EBETY2|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|EBETY2|Files Found]
+
+[Package|EBETY2|Files Released]
+
+[Package|EBETY2|Missing Dependency Information]
+D:\AGEP6_ACCESS2\vcFRMSHAPECTL.ocx=
+C:\OCT\barcodex.ocx=
+C:\Program Files (x86)\Common Files\System\ado\msado28.tlb=
+C:\Program Files (x86)\Microsoft Office\Office12\EXCEL.EXE=
+C:\Windows\System32\wmp.dll=
+C:\Program Files (x86)\Microsoft Office\Office12\MSACC.OLB=
+C:\OCT\ActiveSkin.ocx=
+
+[Package|EBETY2|Out-of-Date Dependency Information]
+C:\Windows\SysWOW64\MSCOMCTL.OCX=
+
+[Package|EBETY2|Files Added]
+
+[Package|EBETY2|Files Removed]
+
+[Package|EBETY2|Files In Project]
+D:\AGEP6_ACCESS2\AGEP6.exe=Yes
+C:\Windows\System32\msvbvm60.dll=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\OCT\ActiveSkin.ocx=Yes
+C:\Windows\SysWOW64\MSSTDFMT.DLL=Yes
+C:\Program Files (x86)\Microsoft Office\Office12\MSACC.OLB=Yes
+C:\Windows\System32\wmp.dll=Yes
+C:\Program Files (x86)\Microsoft Office\Office12\EXCEL.EXE=Yes
+C:\Program Files (x86)\Common Files\System\ado\msado28.tlb=Yes
+C:\Windows\SysWOW64\MSCOMCTL.OCX=Yes
+C:\Windows\SysWOW64\MSCOMCT2.OCX=Yes
+C:\Windows\SysWOW64\TABCTL32.OCX=Yes
+C:\Windows\SysWOW64\MSFLXGRD.OCX=Yes
+C:\OCT\barcodex.ocx=Yes
+C:\Windows\SysWOW64\COMDLG32.OCX=Yes
+C:\Windows\SysWOW64\MSCHRT20.OCX=Yes
+D:\AGEP6_ACCESS2\vcFRMSHAPECTL.ocx=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Windows\System32\VB6STKIT.DLL=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|EBETY2|Configure Registry Files]
+Applicable=No
+
+[Package|EBETY2|Configure Remote Servers]
+Applicable=No
+
+[Package|EBETY2|Install Locations]
+D:\AGEP6_ACCESS2\AGEP6.exe=$(AppPath)
+C:\Windows\System32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\OCT\ActiveSkin.ocx=$(WinSysPath)
+C:\Windows\SysWOW64\MSSTDFMT.DLL=$(WinSysPath)
+C:\Program Files (x86)\Microsoft Office\Office12\MSACC.OLB=$(WinSysPath)
+C:\Windows\System32\wmp.dll=$(AppPath)
+C:\Program Files (x86)\Microsoft Office\Office12\EXCEL.EXE=$(AppPath)
+C:\Program Files (x86)\Common Files\System\ado\msado28.tlb=$(WinSysPath)
+C:\Windows\SysWOW64\MSCOMCTL.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\MSCOMCT2.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\TABCTL32.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\MSFLXGRD.OCX=$(WinSysPath)
+C:\OCT\barcodex.ocx=$(WinSysPath)
+C:\Windows\SysWOW64\COMDLG32.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\MSCHRT20.OCX=$(WinSysPath)
+D:\AGEP6_ACCESS2\vcFRMSHAPECTL.ocx=$(WinSysPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Windows\System32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|EBETY2|Configure Shared Files]
+Applicable=Yes
+D:\AGEP6_ACCESS2\AGEP6.exe=Yes
+C:\Windows\System32\wmp.dll=Yes
+C:\Program Files (x86)\Microsoft Office\Office12\EXCEL.EXE=Yes
+
+[Package|EBETY2|Distribution]
+Type=single
+Size=
+Title=AGEP6
+
+[Package|EBETY2|IconGroups]
+Group0=AGEP6
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|EBETY2|AGEP6]
+Icon1=AGEP6.exe
+Title1=AGEP6
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|EBETY2|Package]
+PackageFolder=D:\AGEP6_ACCESS2\EBETY2
+ProjectFolder=D:\AGEP6_ACCESS2
+ServerSideCab=
+File1=D:\AGEP6_ACCESS2\EBETY2\setup.exe
+File2=D:\AGEP6_ACCESS2\EBETY2\Setup.Lst
+File3=D:\AGEP6_ACCESS2\EBETY2\AGEP6.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
